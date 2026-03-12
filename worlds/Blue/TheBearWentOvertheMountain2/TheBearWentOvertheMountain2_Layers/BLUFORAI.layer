@@ -1,3 +1,10 @@
+SCR_AIGroup : "{42A2076C85157993}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Fighter_Fireteam.et" {
+ coords 10825.724 302.902 6484.203
+ angles 0 0 0
+ m_aStaticWaypoints {
+  "DEF9"
+ }
+}
 $grp GenericEntity : "{7A40BF128BB47EFD}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_S_USSR_01.et" {
  {
   components {
@@ -5,9 +12,7 @@ $grp GenericEntity : "{7A40BF128BB47EFD}Prefabs/Compositions/Slotted/SlotFlatSma
    }
   }
   coords 10721.02 300.451 6226.017
-  angleX -10.916
-  angleY -46.51
-  angleZ -7.177
+  angles -10.916 -46.51 -7.177
  }
  {
   components {
@@ -15,9 +20,7 @@ $grp GenericEntity : "{7A40BF128BB47EFD}Prefabs/Compositions/Slotted/SlotFlatSma
    }
   }
   coords 10377.722 284.845 6559.002
-  angleX 6.385
-  angleY -111.363
-  angleZ -9.972
+  angles 6.385 -111.363 -9.972
  }
 }
 $grp SCR_DefendWaypoint : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
@@ -69,26 +72,26 @@ $grp GenericEntity : "{9751583B234C4202}Prefabs/Compositions/Misc/SubComposition
    }
   }
   coords 10506.157 290.746 6427.422
-  angleY -42.237
+  angles 0 -42.237 0
   {
    $grp GenericEntity : "{21D83950DF36F250}Prefabs/Props/Military/Sandbags/Sandbag_01_long_burlap.et" {
     {
      coords -5.321 0 -3.873
-     angleY 114.464
+     angles 0 114.464 0
     }
     {
      coords -6.047 0.001 -6.813
-     angleY 95.121
+     angles 0 95.121 0
     }
    }
    $grp GenericEntity : "{937999008F178E82}Prefabs/Props/Military/Sandbags/Sandbag_01_short_high_burlap.et" {
     {
      coords 0.496 0.001 -5.985
-     angleY 4.87
+     angles 0 4.87 0
     }
     {
      coords -2.371 0.001 -7.357
-     angleY 94.757
+     angles 0 94.757 0
     }
    }
   }
@@ -99,101 +102,18 @@ $grp GenericEntity : "{9751583B234C4202}Prefabs/Compositions/Misc/SubComposition
    }
   }
   coords 10504.301 290.746 6423.29
-  angleY -79.126
+  angles 0 -79.126 0
   {
    $grp GenericEntity : "{21D83950DF36F250}Prefabs/Props/Military/Sandbags/Sandbag_01_long_burlap.et" {
     {
      coords 2.323 0 -0.552
-     angleY 10.415
+     angles 0 10.415 0
     }
     {
      coords 6.075 0 -2.866
-     angleY 43.419
+     angles 0 43.419 0
     }
    }
-  }
- }
-}
-$grp SCR_AIGroup : "{AD6A6865CC0F4D68}Prefabs/Groups/OPFOR/GC_INSURGENT/Afghan Insurgents/GC_INS_Afghan_Squad.et" {
- {
-  coords 10513.536 283.042 6443.648
-  m_aStaticWaypoints {
-   "DEF4"
-  }
- }
- {
-  coords 10731.484 293.782 6340.953
-  m_aUnitPrefabSlots {
-   "{756CF0BB5ACB956E}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_SL.et" "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et" "{1400710845635A54}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Machinegunner.et" "{AC48642EC0048861}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman_RPO.et" "{194436870AE9258D}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman.et"
-  }
-  m_aStaticWaypoints {
-   "DEF5"
-  }
- }
- {
-  coords 10812.706 301.974 6494.746
-  m_aStaticWaypoints {
-   "DEF9"
-  }
- }
- {
-  coords 10872.274 310.029 6490.157
-  m_aUnitPrefabSlots {
-   "{756CF0BB5ACB956E}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_SL.et" "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et" "{1400710845635A54}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Machinegunner.et" "{AC48642EC0048861}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman_RPO.et" "{194436870AE9258D}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman.et"
-  }
-  m_aStaticWaypoints {
-   "DEF8"
-  }
- }
- {
-  coords 10874.611 305.456 6375.732
-  m_aUnitPrefabSlots {
-   "{756CF0BB5ACB956E}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_SL.et" "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et" "{1400710845635A54}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Machinegunner.et" "{AC48642EC0048861}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman_RPO.et" "{194436870AE9258D}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman.et"
-  }
-  m_aStaticWaypoints {
-   "DEF6"
-  }
- }
- {
-  coords 10927.891 307.408 6364.14
-  m_aStaticWaypoints {
-   "DEF10"
-  }
- }
- {
-  coords 10616.778 283.096 6365.746
-  angleX -3.095
-  angleY 0.292
-  angleZ -5.391
-  m_aUnitPrefabSlots {
-   "{756CF0BB5ACB956E}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_SL.et" "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et" "{1400710845635A54}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Machinegunner.et" "{AC48642EC0048861}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman_RPO.et" "{194436870AE9258D}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Rifleman.et"
-  }
-  m_aStaticWaypoints {
-   "DEF11"
-  }
- }
- {
-  coords 10725.201 301.776 6223.345
-  angleX -3.095
-  angleY 0.292
-  angleZ -5.391
-  m_aUnitPrefabSlots {
-   "{756CF0BB5ACB956E}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_SL.et" "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et"
-  }
-  m_aStaticWaypoints {
-   "DEF12"
-  }
- }
- {
-  coords 10380.75 284.788 6560.989
-  angleX -3.095
-  angleY 0.292
-  angleZ -5.391
-  m_aUnitPrefabSlots {
-   "{756CF0BB5ACB956E}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_SL.et" "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et"
-  }
-  m_aStaticWaypoints {
-   "DEF13"
   }
  }
 }

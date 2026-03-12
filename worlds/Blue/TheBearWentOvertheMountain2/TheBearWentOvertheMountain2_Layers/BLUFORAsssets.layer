@@ -1,0 +1,60 @@
+PK_EntityDeleter {
+ coords 11245.516 402.767 6538.101
+ m_fRadius 5
+}
+Turret : "{023236B2A390BA5B}Prefabs/Weapons/Tripods/BGM71_TOW/Tripod_BGM-71_TOW.et" {
+ coords 11265.876 413.173 6522.399
+ angles -0.652 -102.136 -2.485
+}
+Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w_collision.et" {
+ coords 11260.761 0.013 6524.696
+}
+StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_straight.et" {
+ coords 11261.626 410.744 6522.271
+ angles 8.26 84.842 -0.423
+}
+Tree : "{BA785041AC632123}Prefabs/Vegetation/Bush/b_salix_cinerea_1_collision.et" {
+ coords 11261.375 -0.81 6519.515
+}
+$grp GenericEntity : "{DDCC4099D0355C9F}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_short_high_burlap.et" {
+ {
+  coords 11262.806 412.426 6521.06
+  angles 0 74.229 0
+ }
+ {
+  coords 11262.627 412.357 6522.717
+  angles 0 89.051 0
+ }
+}
+$grp Tree : "{F0B4F9601CEF4BE3}Prefabs/Vegetation/Tree/t_alnus_glutinosa/t_alnus_glutinosa_3s.et" {
+ {
+  coords 11265.575 0 6517.841
+ }
+ {
+  coords 11267.123 -0 6495.933
+ }
+ {
+  coords 11248.945 -0 6446.033
+ }
+ {
+  coords 11229.407 0 6400.635
+ }
+ {
+  coords 11221.636 -0 6359.999
+ }
+ {
+  coords 11268.813 -0 6469.968
+ }
+ {
+  coords 11318.883 0.002 6532.541
+ }
+ {
+  coords 11288.713 -0.001 6553.031
+ }
+ {
+  coords 11360.888 -0 6605.651
+ }
+ {
+  coords 11356.398 0 6626.524
+ }
+}

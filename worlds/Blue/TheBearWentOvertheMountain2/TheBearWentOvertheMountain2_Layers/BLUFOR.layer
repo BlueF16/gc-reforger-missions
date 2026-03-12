@@ -1,17 +1,20 @@
-$grp SCR_AIGroup : "{2F2E162C9B835EFB}Prefabs/Groups/OPFOR/GC_INSURGENT/Afghan Insurgents/P/GC_INS_Afghan_Squad_P.et" {
- {
-  coords 10531.548 284.543 6480.356
-  angleZ -2.273
+SCR_AIGroup : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_PHQ_P.et" {
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation "line"
+  }
  }
- {
-  coords 10560.229 286.543 6493.015
-  angleX 2.267
-  angleY -0.112
-  angleZ -2.842
- }
+ coords 10525.938 283.772 6461.685
+ angles 0 -27.953 0
 }
-SCR_AIGroup : "{3D708B262E8A46A3}Prefabs/Groups/OPFOR/GC_INSURGENT/Afghan Insurgents/P/GC_INS_Afghan_PHQ_P.et" {
- coords 10507.768 283.055 6455.529
+SCR_AIGroup : "{5904B752E06F3423}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_Assault_P.et" {
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation "line"
+  }
+ }
+ coords 10551.507 285.563 6480.021
+ angles 0 -33.881 0
 }
 GenericEntity : "{92F3D49676C8CB61}Prefabs/Props/Military/AmmoBoxes/USSR/EquipmentBoxWooden_Launcher_01_USSR.et" {
  components {
@@ -38,10 +41,16 @@ GenericEntity : "{92F3D49676C8CB61}Prefabs/Props/Military/AmmoBoxes/USSR/Equipme
  }
  coords 10525.403 284.418 6486.376
 }
-GMFX_MineTriggerEntity : "{E1BBAB7F28FE8B0B}Prefabs/Systems/Mines/Mine_AP.et" {
- coords 9648.975 264.939 6466.494
+SCR_AIGroup : "{AFA6F99CA262DEDB}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_Mixed_P.et" {
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation "line"
+  }
+ }
+ coords 10538.962 284.947 6469.793
+ angles 0 -37.418 0
 }
 Vehicle Ural4320_ZU1 : "{FD109F3702AAB392}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ZU23.et" {
  coords 10502.378 282.865 6474.867
- angleY -121.104
+ angles 0 -121.104 0
 }
