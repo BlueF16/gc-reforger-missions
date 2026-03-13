@@ -16,7 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "C. Attachments and Detachments"\
   "NONE"
   m_aVisibleForFactions {
-   "GC_INSURGENT"
+   "GC_MUJ"
   }
   m_iOrder 1
  }
@@ -25,7 +25,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "5. COMMAND AND SIGNAL"
   m_sTextData "No Radios"
   m_aVisibleForFactions {
-   "GC_INSURGENT"
+   "GC_MUJ"
   }
   m_iOrder 5
  }
@@ -34,7 +34,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "4. SUSTAINMENT"
   m_sTextData "3x FIM-92 Stringer Launchers in a Crate at Spawn"
   m_aVisibleForFactions {
-   "GC_INSURGENT"
+   "GC_MUJ"
   }
   m_iOrder 4
  }
@@ -47,7 +47,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "B. Concept of Operations"\
   "As per CO"
   m_aVisibleForFactions {
-   "GC_INSURGENT"
+   "GC_MUJ"
   }
   m_iOrder 3
  }
@@ -56,7 +56,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "2. MISSION"
   m_sTextData "Attrit and Stop the Soviet Attack from the West."
   m_aVisibleForFactions {
-   "GC_INSURGENT"
+   "GC_MUJ"
   }
   m_iOrder 2
  }

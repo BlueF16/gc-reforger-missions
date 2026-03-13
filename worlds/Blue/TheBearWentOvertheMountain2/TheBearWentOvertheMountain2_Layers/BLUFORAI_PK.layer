@@ -1,0 +1,1167 @@
+$grp GenericEntity : "{C72F956E4AC6A6E7}Prefabs/Systems/ScenarioFramework/Components/Area.et" {
+ Area2 {
+  coords 10035.303 263.162 6524.157
+  {
+   SCR_AIGroup StaticDefence_1 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -0.083 -0.037 0.418
+    angles 0 94.16 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP3"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP3 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords 3.966 0.156 -3.746
+    angles -0.003 0.441 0.009
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90A08E5E391}" {
+      m_eCause ALWAYS
+      m_eStance STAND
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords 5.445 0.223 9.675
+     angles 0 55.971 0
+    }
+    {
+     coords 13.203 0.107 8.053
+     angles 0 55.971 0
+    }
+    {
+     coords 20.474 0.452 -19.906
+     angles 0 55.971 0
+    }
+    {
+     coords 21.506 0.132 -9.373
+     angles 0 55.971 0
+    }
+    {
+     coords 23.979 2.701 -12.135
+     angles 0 55.971 0
+    }
+   }
+  }
+ }
+ Area3 {
+  coords 10113.214 268.264 6451.472
+  {
+   SCR_AIGroup StaticDefence_2 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords 0.069 0.1 -0.075
+    angles 0 94.16 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP4"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP4 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords 4.118 0.293 -4.239
+    angles -0.003 0.441 0.009
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -7.004 1.164 -3.541
+     angles 0 -38.189 0
+    }
+    {
+     coords 9.012 3.347 8.011
+     angles 0 -38.189 0
+    }
+    {
+     coords 11.762 0.555 10.42
+     angles 0 -38.189 0
+    }
+    {
+     coords 1.822 0.572 6.84
+     angles 0 -38.189 0
+    }
+    {
+     coords -18.753 -0.72 6.268
+     angles 0 -38.189 0
+    }
+   }
+  }
+ }
+ Area4 {
+  coords 10369.087 278.513 6483.379
+  {
+   SCR_AIGroup StaticDefence_3 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords 0.133 0.006 -0.004
+    angles 0 94.16 0
+    m_aUnitPrefabSlots {
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP5"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP5 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords 4.182 0.199 -4.168
+    angles -0.003 0.441 0.009
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68D93BF5898AD49B}" {
+      m_eCause ALWAYS
+      m_eStance CROUCH
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -6.293 6.702 -16.15
+     angles 0 -132.349 0
+    }
+    {
+     coords -5.579 6.739 -14.659
+     angles 0 -132.349 0
+    }
+    {
+     coords -3.598 7.132 11.357
+     angles 0 -132.349 0
+    }
+   }
+  }
+ }
+ Area5 {
+  coords 10476.319 282.716 6444.143
+  {
+   SCR_AIGroup StaticDefence_4 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -0.024 0.23 0.059
+    angles 0 94.16 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP6"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP6 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -11.826 0.423 -2.482
+    angles -0.003 0.441 0.009
+    CompletionRadius 20
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -21.249 0.43 -10.728
+     angles 0 -132.349 0
+    }
+    {
+     coords -1.288 0.991 -11.255
+     angles 0 -132.349 0
+    }
+    {
+     coords -5.737 7.099 -4.938
+     angles 0 -132.349 0
+    }
+    {
+     coords -14.733 0.493 5.619
+     angles 0 -132.349 0
+    }
+    {
+     coords -17.699 0.493 7.396
+     angles 0 -132.349 0
+    }
+   }
+  }
+ }
+ Area6 {
+  coords 10457.648 283.832 6392.841
+  {
+   SCR_AIGroup StaticDefence_5 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords 0.024 0.1 0.044
+    angles 0 89.259 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP7"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP7 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -6.334 -0.019 4.134
+    angles -0.003 -4.46 0.009
+    CompletionRadius 25
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -14.498 3.376 17.12
+     angles 0 133.491 0
+    }
+    {
+     coords 6.562 3.163 4.953
+     angles 0 133.491 0
+    }
+    {
+     coords 12.036 3.34 2.729
+     angles 0 133.491 0
+    }
+    {
+     coords 14.404 0.539 3.37
+     angles 0 133.491 0
+    }
+    {
+     coords 3.752 0.545 4.878
+     angles 0 133.491 0
+    }
+    {
+     coords -10.668 0.919 -7.004
+     angles 0 133.491 0
+    }
+    {
+     coords -8.284 0.542 13.654
+     angles 0 133.491 0
+    }
+    {
+     coords -13.897 0.275 14.793
+     angles 0 133.491 0
+    }
+    {
+     coords -18.84 0.222 15.101
+     angles 0 133.491 0
+    }
+    {
+     coords -14.007 3.415 17.123
+     angles 0 133.491 0
+    }
+   }
+  }
+ }
+ Area7 {
+  coords 10379.406 284.599 6558.849
+  {
+   SCR_AIGroup : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords 0.486 0.017 0.432
+    m_aUnitPrefabSlots {
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+    }
+    m_aStaticWaypoints {
+     "DEF14"
+    }
+   }
+   SCR_DefendWaypoint DEF14 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    coords -0.5 -0.146 0.134
+    CompletionRadius 4
+    m_bFastInit 1
+   }
+  }
+ }
+ Area8 {
+  coords 10512.955 291.359 6424.758
+  {
+   SCR_AIGroup : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords 1.487 -8.53 -3.912
+    angles 0 -36.319 0
+    m_aUnitPrefabSlots {
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+    }
+    m_aStaticWaypoints {
+     "DEF15"
+    }
+   }
+   SCR_DefendWaypoint DEF15 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    coords -3.714 -3.243 0.797
+    CompletionRadius 15
+    m_bFastInit 1
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -8.405 -3.812 -3.687
+     angles 0 -153.954 0
+    }
+    {
+     coords -4.785 -5.492 -8.271
+     angles 0 -59.741 0
+    }
+    {
+     coords 0.266 -7.012 -0.836
+     angles 0 -5.875 0
+    }
+    {
+     coords 3.033 -8.512 -1.79
+     angles 0 19.846 0
+    }
+   }
+  }
+ }
+ Area10 {
+  coords 10617.543 289.836 6504.458
+  {
+   SCR_AIGroup StaticDefence_6 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords 1.878 0.1 9.067
+    angles 0 50.797 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP8"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP8 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -6.334 -0.019 4.134
+    angles -0.003 -4.46 0.009
+    CompletionRadius 25
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords 10.175 6.626 6.733
+     angles 0 133.491 0
+    }
+    {
+     coords -9.643 0.277 -2.328
+     angles 0 133.491 0
+    }
+    {
+     coords -24.349 0.277 -5.532
+     angles 0 133.491 0
+    }
+    {
+     coords -14.222 0.277 -13.823
+     angles 0 133.491 0
+    }
+    {
+     coords -15.623 0.277 0.931
+     angles 0 133.491 0
+    }
+    {
+     coords -12.472 0.277 3.103
+     angles 0 133.491 0
+    }
+    {
+     coords -9.728 0.277 5.371
+     angles 0 133.491 0
+    }
+    {
+     coords -6.762 0.277 7.497
+     angles 0 133.491 0
+    }
+    {
+     coords -4.026 0.277 9.679
+     angles 0 133.491 0
+    }
+    {
+     coords 3.645 0.277 -0.643
+     angles 0 133.491 0
+    }
+    {
+     coords 0.839 0.277 -2.552
+     angles 0 133.491 0
+    }
+    {
+     coords -2.294 0.277 -4.75
+     angles 0 133.491 0
+    }
+    {
+     coords -5.081 0.277 -6.75
+     angles 0 133.491 0
+    }
+    {
+     coords -8.091 0.277 -8.994
+     angles 0 133.491 0
+    }
+    {
+     coords -10.854 0.277 -11.322
+     angles 0 133.491 0
+    }
+   }
+  }
+ }
+ Area11 {
+  coords 10636.942 287.383 6364.659
+  {
+   SCR_AIGroup StaticDefence_7 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -5.846 0.002 1.724
+    angles 0 94.16 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP9"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP9 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -11.826 0.423 -2.482
+    angles -0.003 0.441 0.009
+    CompletionRadius 25
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90DF720F257}" {
+      m_eCause ALWAYS
+      m_eStance CROUCH
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -12.296 0.669 14.522
+     angles 0 -132.349 0
+    }
+    {
+     coords -16.776 1.321 -17.546
+     angles 0 -132.349 0
+    }
+    {
+     coords -27.712 -0.58 -9.988
+     angles 0 43.841 0
+    }
+    {
+     coords -27.973 1.835 -10.855
+     angles 0 -132.349 0
+    }
+    {
+     coords -1.978 -0.014 -7.124
+     angles 0 -132.349 0
+    }
+    {
+     coords 2.44 -0.001 -16.757
+     angles 0 -132.349 0
+    }
+   }
+  }
+ }
+ Area12 {
+  coords 10751.852 307.259 6282.901
+  {
+   SCR_AIGroup StaticDefence_8 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -7.35 -1.923 11.176
+    angles 0 66.856 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP10"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP10 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -6.334 -0.74 4.134
+    angles -0.003 -4.46 0.009
+    CompletionRadius 15
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords 1.645 5.031 13.026
+     angles 0 -118.094 0
+    }
+    {
+     coords -4.268 2.09 10.671
+     angles 0 -118.094 0
+    }
+    {
+     coords 5.481 2.078 6.929
+     angles 0 -118.094 0
+    }
+    {
+     coords 4.28 -1.003 9.927
+     angles 0 -118.094 0
+    }
+    {
+     coords -4.77 -1 11.194
+     angles 0 -118.094 0
+    }
+    {
+     coords -6.663 -0.421 2.112
+     angles 0 -118.094 0
+    }
+    {
+     coords -16.302 1.274 -2.727
+     angles 0 -14.111 0
+    }
+    {
+     coords -12.327 0.312 3.48
+     angles 0 -118.094 0
+    }
+    {
+     coords -5.3 -1.887 5.418
+     angles 0 -118.094 0
+    }
+   }
+  }
+ }
+ Area13 {
+  coords 10840.96 310.698 6496.808
+  {
+   SCR_AIGroup StaticDefence_9 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -7.35 -1.923 11.176
+    angles 0 66.856 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP11"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP11 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -6.334 -0.74 4.134
+    angles -0.003 -4.46 0.009
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90DA84D1DD9}" {
+      m_eCause ALWAYS
+      m_eStance CROUCH
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -17.711 3.529 4.477
+     angles 0 -169.147 0
+    }
+    {
+     coords -19.562 3.631 9.729
+     angles 0 149.243 0
+    }
+    {
+     coords -11.607 -2.386 9.897
+     angles 0 -118.094 0
+    }
+    {
+     coords 2.751 6.405 4.339
+     angles 0 -177.934 0
+    }
+    {
+     coords -6.856 -1.293 -11.755
+     angles 0 -132.714 0
+    }
+    {
+     coords -3.031 -1.526 -17.958
+     angles 0 -118.094 0
+    }
+    {
+     coords -1.093 1.424 -15.696
+     angles 0 146.861 0
+    }
+    {
+     coords 0.645 1.424 -12.604
+     angles 0 -118.094 0
+    }
+    {
+     coords -2.759 -4.616 -19.384
+     angles 0 165.516 0
+    }
+   }
+  }
+ }
+ Area14 {
+  coords 10885.954 314.946 6501.748
+  {
+   SCR_AIGroup StaticDefence_10 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -15.188 -1.923 -10.352
+    angles 0 66.856 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP12"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP12 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -6.334 -0.74 4.134
+    angles -0.003 -4.46 0.009
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90DA84D1DD9}" {
+      m_eCause ALWAYS
+      m_eStance CROUCH
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -29.393 1.932 7.283
+     angles 0 165.516 0
+    }
+    {
+     coords 3.3 4.922 -13.155
+     angles 0 165.516 0
+    }
+    {
+     coords 8.017 1.363 -14.008
+     angles 0 165.516 0
+    }
+    {
+     coords 0.301 5.573 1.602
+     angles 0 165.516 0
+    }
+    {
+     coords 4.442 5.52 0.365
+     angles 0 165.516 0
+    }
+    {
+     coords -2.527 5.69 6.709
+     angles 0 165.516 0
+    }
+    {
+     coords 3.27 8.745 2.567
+     angles 0 165.516 0
+    }
+    {
+     coords -14.463 -4.769 -5.944
+     angles 0 165.516 0
+    }
+   }
+  }
+ }
+ Area15 {
+  coords 10891.737 306.311 6366.558
+  {
+   SCR_AIGroup StaticDefence_11 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -7.206 -1.923 2.827
+    angles 0 -6.974 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP13"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP13 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -6.334 -0.74 4.134
+    angles -0.003 -4.46 0.009
+    CompletionRadius 15
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90EF5585DE6}" {
+      m_eCause ALWAYS
+      m_eStance STAND
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -17.896 1.693 -2.44
+     angles 0 -135.721 0
+    }
+    {
+     coords -5.884 2.336 -1.929
+     angles 0 -118.094 0
+    }
+    {
+     coords -9.41 2.373 4.227
+     angles 0 -118.094 0
+    }
+    {
+     coords -2.81 4.178 -2.131
+     angles 0 -118.094 0
+    }
+    {
+     coords -2.824 7.218 -0.466
+     angles 0 -118.094 0
+    }
+    {
+     coords 8.665 7.218 6.457
+     angles 0 -118.094 0
+    }
+    {
+     coords 2.994 0.576 4.081
+     angles 0 -118.094 0
+    }
+    {
+     coords -1.34 0.551 3.025
+     angles 0 -118.094 0
+    }
+    {
+     coords -16.667 -1.268 -2.46
+     angles 0 -40.027 0
+    }
+    {
+     coords -7.218 -0.683 4.42
+     angles 0 -118.094 0
+    }
+   }
+  }
+ }
+ Area16 {
+  coords 10885.583 307.004 6322.242
+  {
+   SCR_AIGroup StaticDefence_12 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -6.862 -1.923 2.105
+    angles 0 -6.974 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP14"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP14 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -4.483 0.301 -0.455
+    angles -0.003 -4.46 0.009
+    CompletionRadius 25
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90EF5585DE6}" {
+      m_eCause ALWAYS
+      m_eStance STAND
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -14.315 3.373 15.019
+     angles 0 -118.094 0
+    }
+    {
+     coords -14.512 6.694 6.99
+     angles 0 -118.094 0
+    }
+    {
+     coords -7.436 3.365 12.441
+     angles 0 -118.094 0
+    }
+    {
+     coords 5.132 10.675 -16.493
+     angles 0 -118.094 0
+    }
+    {
+     coords 11.586 6.837 -10.172
+     angles 0 -118.094 0
+    }
+    {
+     coords 11.657 6.814 -18.778
+     angles 0 -118.094 0
+    }
+    {
+     coords -13.305 -0.261 6.761
+     angles 0 -118.094 0
+    }
+    {
+     coords -14.383 3.392 7.108
+     angles 0 -118.094 0
+    }
+    {
+     coords 0.562 0.223 15.656
+     angles 0 -118.094 0
+    }
+   }
+  }
+ }
+ Area17 {
+  coords 10962.899 310.704 6387.378
+  {
+   SCR_AIGroup StaticDefence_13 : "{81A45DE2A1C7C267}Prefabs/Groups/INDFOR/GC_MUJ/Group_MUJ_Mixed.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      Enabled 0
+     }
+    }
+    coords -6.862 -1.923 2.105
+    angles 0 -6.974 0
+    m_aUnitPrefabSlots {
+     "{2CD9683057C04459}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_SL.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{C56A48B601427AF1}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Fighter.et"
+     "{4A8AFB51826FCE3E}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_BoltAction.et"
+     "{FEC3CB0B1E9A0CA0}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_Assault.et"
+     "{020C7EF03183EF2B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/Character_MUJ_AutoRifle.et"
+    }
+    m_aStaticWaypoints {
+     "Building_1_Defend_WP15"
+    }
+   }
+   SCR_DefendWaypoint Building_1_Defend_WP15 : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+    components {
+     TILW_NavmeshRegenComponent "{66F0D8C54346D16A}" {
+     }
+    }
+    coords -4.483 0.139 -0.455
+    angles -0.003 -4.46 0.009
+    CompletionRadius 35
+    m_aSettings {
+     SCR_AICharacterStanceSetting "{68DAD90EF5585DE6}" {
+      m_eCause ALWAYS
+      m_eStance STAND
+     }
+    }
+    m_bFastInit 1
+    m_aDefendPresets {
+     SCR_DefendWaypointPreset "{61B0C34477FB8F5E}" {
+      m_fFractionOfSA 1
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+     SCR_DefendWaypointPreset "{61B0C34408A0DE30}" {
+      m_aTagsForSearch {
+       "ObservationPost"
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F0AC39FB028EE442}PrefabsEditable/Auto/Systems/Compositions/PatrolPoint/E_PatrolPoint_ObservationPoint.et" {
+    {
+     coords -31.695 4.546 -20.674
+     angles 0 -118.094 0
+    }
+    {
+     coords -25.368 4.533 -11.427
+     angles 0 -118.094 0
+    }
+    {
+     coords -30.318 2.647 -1.207
+     angles 0 -118.094 0
+    }
+    {
+     coords -17.964 2.002 0.813
+     angles 0 -118.094 0
+    }
+    {
+     coords 7.812 3.451 -20.966
+     angles 0 -118.094 0
+    }
+    {
+     coords 10.561 3.451 -12.97
+     angles 0 -118.094 0
+    }
+    {
+     coords -4.483 -0.722 -27.326
+     angles 0 -118.094 0
+    }
+    {
+     coords 11.513 0.808 -14.955
+     angles 0 -118.094 0
+    }
+    {
+     coords -25.33 0.034 11.188
+     angles 0 -118.094 0
+    }
+   }
+  }
+ }
+}
