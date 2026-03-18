@@ -29,7 +29,8 @@ SCR_AIGroup SEP_GROUP_420 : "{4ED44E08226F3FB3}Prefabs/Groups/OPFOR/GC_SEPARATIS
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "LineLeft"
   }
-  PS_GroupCallsignAssigner "{6606F4E97BDA02D0}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 4
    m_iPlatoonCallsign 2
   }
@@ -138,7 +139,8 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "LineLeft"
    }
-   PS_GroupCallsignAssigner "{6606F4E9594DF63B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 4
     m_iPlatoonCallsign 2
     m_iSquadCallsign 1
@@ -155,7 +157,8 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "LineLeft"
    }
-   PS_GroupCallsignAssigner "{6606F4E9594DF63B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 4
     m_iPlatoonCallsign 2
     m_iSquadCallsign 2

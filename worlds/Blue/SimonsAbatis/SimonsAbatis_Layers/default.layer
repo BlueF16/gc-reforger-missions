@@ -150,7 +150,7 @@ SCR_EditorRestrictionZoneEntity : "{7846A93EA395CFBA}PrefabsEditable/Restriction
 TILW_FactionTriggerEntity Crossroad_Capture2 : "{8C576D46F6579229}Prefabs/Logic/Triggers/TILW_FactionTrigger.et" {
  coords 6253.14 109.126 5176.617
  m_queryRadius 50.5
- m_captureIterations 30
+ m_captureTime 300
  m_sendStatusMessages 1
  m_locationName "CROSSROAD"
  m_flagName "USSR_CROSSROAD"

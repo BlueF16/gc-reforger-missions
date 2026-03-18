@@ -7,7 +7,8 @@ SCR_AIGroup HQ : "{312B31A3D81EF88A}Prefabs/Groups/OPFOR/Russia/2020/AFRF_MotorR
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{6522D4E955DC4D7B}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iSquadCallsign 1
   }
  }
@@ -35,7 +36,8 @@ $grp SCR_AIGroup : "{4612288297E3FCAC}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6522D4E9A4439ADF}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -50,7 +52,8 @@ $grp SCR_AIGroup : "{4612288297E3FCAC}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6522D4E9B6D87475}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 4
    }
   }
@@ -65,7 +68,8 @@ $grp SCR_AIGroup : "{4612288297E3FCAC}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6522D4E9AEC1044C}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 3
    }
   }

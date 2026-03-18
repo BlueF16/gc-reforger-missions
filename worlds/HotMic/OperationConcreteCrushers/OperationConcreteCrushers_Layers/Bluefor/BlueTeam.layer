@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F1597515D}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
    }
@@ -18,7 +19,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F6BA555DE}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
    }
@@ -32,7 +34,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F63FC7441}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 3
    }
@@ -46,7 +49,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F7BCEFEDA}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 1
    }
@@ -63,7 +67,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F77908ADA}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 2
    }
@@ -80,7 +85,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F70407E53}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 3
    }
@@ -99,7 +105,8 @@ $grp SCR_AIGroup : "{464268B2BFA7FE84}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6651352F0AF8E200}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
    }
   }
   coords 9510.916 18.125 6942.395
@@ -115,7 +122,8 @@ $grp SCR_AIGroup : "{464268B2BFA7FE84}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6651352F043E271A}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
    }
   }
@@ -132,7 +140,8 @@ $grp SCR_AIGroup : "{464268B2BFA7FE84}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6651352F39D02306}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
    }
   }
@@ -149,7 +158,8 @@ $grp SCR_AIGroup : "{464268B2BFA7FE84}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6651352F0AF8E200}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 1
     m_iPlatoonCallsign 3
    }

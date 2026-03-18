@@ -3,7 +3,8 @@ SCR_AIGroup : "{030E4CCD2096E191}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian Army
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
-  PS_GroupCallsignAssigner "{651F086F466146B6}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    Enabled 1
    m_iCompanyCallsign 2
    m_iSquadCallsign 4
@@ -19,7 +20,8 @@ $grp SCR_AIGroup : "{0E57894BF65D83EF}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
@@ -37,7 +39,8 @@ $grp SCR_AIGroup : "{0E57894BF65D83EF}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
@@ -56,7 +59,8 @@ SCR_AIGroup : "{534CCDD793823468}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian Army
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
-  PS_GroupCallsignAssigner "{651F086F466146B6}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    Enabled 1
    m_iCompanyCallsign 2
   }
@@ -72,7 +76,8 @@ $grp SCR_AIGroup : "{6B78CB506D9C5C64}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
@@ -88,7 +93,8 @@ $grp SCR_AIGroup : "{6B78CB506D9C5C64}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
@@ -104,7 +110,8 @@ $grp SCR_AIGroup : "{6B78CB506D9C5C64}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
@@ -120,7 +127,8 @@ $grp SCR_AIGroup : "{6B78CB506D9C5C64}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
@@ -136,7 +144,8 @@ $grp SCR_AIGroup : "{6B78CB506D9C5C64}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
@@ -152,7 +161,8 @@ $grp SCR_AIGroup : "{6B78CB506D9C5C64}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{651F086F466146B6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
@@ -169,7 +179,8 @@ SCR_AIGroup : "{E209EA8B42D29191}Prefabs/Groups/BLUFOR/GC_CAF/2025 Canadian Army
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
-  PS_GroupCallsignAssigner "{651F086F466146B6}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    Enabled 1
    m_iCompanyCallsign 2
    m_iSquadCallsign 5

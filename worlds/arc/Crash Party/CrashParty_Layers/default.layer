@@ -108,7 +108,7 @@ PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" 
 }
 TILW_FactionTriggerEntity : "{8C576D46F6579229}Prefabs/Logic/TILW_FactionTrigger.et" {
  coords 3522.875 133.094 6199.116
- m_captureIterations 18
+ m_captureTime 180
  m_sendStatusMessages 1
  m_locationName "the crash site"
  m_flagName "INS_CAP"

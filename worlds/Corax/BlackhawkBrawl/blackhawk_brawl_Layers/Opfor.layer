@@ -69,7 +69,8 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
 $grp SCR_AIGroup : "{953055A03391C1B2}Prefabs/Groups/OPFOR/Russia/1980s/Airborne 1983/P/Group_USSR_VDV_Squad_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F3137CB6572F}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 3
     m_iSquadCallsign 2
@@ -80,7 +81,8 @@ $grp SCR_AIGroup : "{953055A03391C1B2}Prefabs/Groups/OPFOR/Russia/1980s/Airborne
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F31365A7D399}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 3
     m_iSquadCallsign 3
@@ -91,7 +93,8 @@ $grp SCR_AIGroup : "{953055A03391C1B2}Prefabs/Groups/OPFOR/Russia/1980s/Airborne
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F31360E4B6BB}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 3
     m_iSquadCallsign 4
@@ -103,7 +106,8 @@ $grp SCR_AIGroup : "{953055A03391C1B2}Prefabs/Groups/OPFOR/Russia/1980s/Airborne
 }
 SCR_AIGroup : "{C724911C8224C5EF}Prefabs/Groups/OPFOR/Russia/1980s/Airborne 1983/P/Group_USSR_VDV_PHQ_P.et" {
  components {
-  PS_GroupCallsignAssigner "{68A0F313357E0D70}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 2
    m_iPlatoonCallsign 3
    m_iSquadCallsign 1

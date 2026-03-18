@@ -52,7 +52,8 @@ GenericEntity : "{5E6CBF60621C39CD}Prefabs/Props/Military/Arsenal/AmmoBoxes/USSR
 $grp SCR_AIGroup : "{6B11915EA2BBCFE0}Prefabs/Groups/OPFOR/GC_Donovia/P/Group_Donnovia_RifleSecton_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{689B7287263F5089}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
@@ -75,7 +76,8 @@ $grp SCR_AIGroup : "{6B11915EA2BBCFE0}Prefabs/Groups/OPFOR/GC_Donovia/P/Group_Do
  }
  {
   components {
-   PS_GroupCallsignAssigner "{689B7287454DC73A}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
@@ -87,7 +89,8 @@ $grp SCR_AIGroup : "{6B11915EA2BBCFE0}Prefabs/Groups/OPFOR/GC_Donovia/P/Group_Do
  }
  {
   components {
-   PS_GroupCallsignAssigner "{689B72877B5069F2}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 1
     m_iSquadCallsign 3
@@ -100,7 +103,8 @@ $grp SCR_AIGroup : "{6B11915EA2BBCFE0}Prefabs/Groups/OPFOR/GC_Donovia/P/Group_Do
 }
 SCR_AIGroup : "{7D823924B0515AD0}Prefabs/Groups/OPFOR/GC_Donovia/P/Group_Donnovia_SMGSection_P.et" {
  components {
-  PS_GroupCallsignAssigner "{689B72878E631F60}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 2
    m_iPlatoonCallsign 1
    m_iSquadCallsign 4
@@ -197,7 +201,8 @@ GenericEntity : "{B3C3E866F3AFFA03}Prefabs/Structures/Military/Camps/Foundations
 }
 SCR_AIGroup : "{CDEC650DC1A8CB7C}Prefabs/Groups/OPFOR/GC_Donovia/Group_Donnovia_MortarSection.et" {
  components {
-  PS_GroupCallsignAssigner "{689B7287C8C22460}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 2
    m_iPlatoonCallsign 1
    m_iSquadCallsign 9

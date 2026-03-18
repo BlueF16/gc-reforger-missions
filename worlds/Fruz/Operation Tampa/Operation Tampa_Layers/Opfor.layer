@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{66AA685B7C29AB6C}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -17,7 +18,8 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{66AA685B789110EE}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -30,7 +32,8 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{66AA685B7437CE62}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 3
    }
   }
@@ -47,7 +50,8 @@ SCR_AIGroup CellHq : "{B7430DCCC8D6FA05}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_I
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation ""
   }
-  PS_GroupCallsignAssigner "{66AA685B70887793}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
   }
  }
  coords 5814.524 179.246 8766.385

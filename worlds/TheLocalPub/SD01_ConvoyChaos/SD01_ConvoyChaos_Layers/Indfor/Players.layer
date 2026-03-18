@@ -3,7 +3,8 @@ SCR_AIGroup PHQ : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_PH
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "File"
   }
-  PS_GroupCallsignAssigner "{6727355B74360345}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
   }
  }
@@ -21,7 +22,8 @@ SCR_AIGroup MG : "{297333D99B816CC9}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_MG_
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "File"
   }
-  PS_GroupCallsignAssigner "{6727355B5AA1F91A}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
    m_iSquadCallsign 2
   }
@@ -34,7 +36,8 @@ SCR_AIGroup assault1 : "{5904B752E06F3423}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_M
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "file"
   }
-  PS_GroupCallsignAssigner "{6727355B5C0B9E49}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
    m_iSquadCallsign 3
   }
@@ -60,7 +63,8 @@ $grp SCR_AIGroup : "{AFA6F99CA262DEDB}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_M
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{6727355B44D837D8}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 4
    }
@@ -84,7 +88,8 @@ $grp SCR_AIGroup : "{AFA6F99CA262DEDB}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_M
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{6727355B44D837D8}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
    }

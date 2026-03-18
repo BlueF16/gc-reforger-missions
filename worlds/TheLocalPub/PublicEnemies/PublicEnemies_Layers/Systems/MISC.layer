@@ -1,7 +1,6 @@
 TILW_ExtractionTriggerEntity FedExtract : "{192ABD6B9232E064}Prefabs/Logic/Triggers/TILW_ExtractionTrigger.et" {
  coords 2768.091 54.638 1005.655
  m_queryRadius 200
- m_queryPeriod 5
  m_comparisonMode EQUAL_OR_LESS
  m_flagName "FederalExtract"
  m_drawShapeSurface 0
@@ -28,7 +27,6 @@ GenericEntity TelephoneInteract1 : "{584EB34600E9698D}Prefabs/Utils/Interactions
 TILW_PresenceTriggerEntity MeetingTrigger : "{826E6F2246328952}Prefabs/Logic/Triggers/TILW_PresenceTrigger.et" {
  coords 2774.278 60.981 1021.933
  m_queryRadius 15
- m_queryPeriod 5
  m_captureTime 1350
  m_sendStatusMessages 1
  m_statusMessages {

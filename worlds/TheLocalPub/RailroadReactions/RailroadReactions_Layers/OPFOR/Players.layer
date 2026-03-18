@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "File"
    }
-   PS_GroupCallsignAssigner "{686740A0BCEA12AC}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 1
    }
@@ -17,7 +18,8 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "File"
    }
-   PS_GroupCallsignAssigner "{686740A0B7061E43}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 2
    }
@@ -30,7 +32,8 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "File"
    }
-   PS_GroupCallsignAssigner "{686740A0ACCADE11}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 3
    }
@@ -43,7 +46,8 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "File"
    }
-   PS_GroupCallsignAssigner "{686740A0A666986C}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 4
    }

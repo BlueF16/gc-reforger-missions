@@ -1,7 +1,8 @@
 $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRifleSquad_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{652F5C6E746ACE30}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 3
    }
   }
@@ -26,7 +27,8 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
 }
 SCR_AIGroup : "{82927FFD013CC95B}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRifleSquadSVD_P.et" {
  components {
-  PS_GroupCallsignAssigner "{652F5C6EBE967FCC}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iSquadCallsign 4
   }
  }
@@ -41,7 +43,8 @@ SCR_AIGroup : "{82927FFD013CC95B}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rif
 }
 SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRiflePHQ_P.et" {
  components {
-  PS_GroupCallsignAssigner "{65136701CA021D8F}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iSquadCallsign 1
   }
  }

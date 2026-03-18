@@ -1,0 +1,118 @@
+Tank BMP1_base1 : "{1DC01AAACFFA8B63}Prefabs/Vehicles/Tracked/BMP1/BMP1_base.et" {
+ coords 1453.122 20.509 2350.244
+}
+$grp SCR_AIGroup : "{4ED44E08226F3FB3}Prefabs/Groups/OPFOR/GC_SEPARATIST/2020/P/Group_SEP_PHQ_P.et" {
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 1
+   }
+  }
+  coords 1432.086 119.123 2344.051
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 2
+   }
+  }
+  coords 1480.074 20.594 2306.457
+ }
+}
+$grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/2020/P/Group_SEP_RifleSquad_P.et" {
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1433.651 74.603 2372.922
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1463.47 40.912 2350
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 1440.931 27.738 2354.085
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1491.837 23.973 2297.207
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1475.31 20.742 2322.685
+ }
+}
+GenericEntity ammoboxRED : "{97B831EBDF519F89}worlds/TheLocalPub/BattleOfTheBulges/Prefabs/Props/Military/Camps/AmmoboxBLUE.et" {
+ components {
+  SCR_UniversalInventoryStorageComponent "{632EA9BEBE5C68F0}" {
+   MultiSlots {
+    MultiSlotConfiguration "{632EA9BEBE5C68E0}" {
+     SlotTemplate InventoryStorageSlot stuff {
+      Prefab "{48602F57998AB597}Prefabs/Items/Equipment/Backpacks/FILBE_Backpack.et"
+     }
+     NumSlots 1
+    }
+    MultiSlotConfiguration "{632EA9BEBE5C68ED}" {
+     NumSlots 0
+    }
+    MultiSlotConfiguration "{632EA9BEBE5C68E9}" {
+     SlotTemplate InventoryStorageSlot "{62F7223228D32A56}" {
+      Prefab "{2A283EA7BADDBD28}Prefabs/Drones/FPVBase/FPVBase.et"
+     }
+     NumSlots 2
+    }
+    MultiSlotConfiguration "{632EA9BEBE5C68EB}" {
+     SlotTemplate InventoryStorageSlot "{62F7223228D32A56}" {
+      Prefab "{E2434ED1318D8476}Prefabs/Characters/Items/DroneController.et"
+     }
+     NumSlots 1
+    }
+    MultiSlotConfiguration "{632EA9BEBE5C68D5}" {
+     SlotTemplate InventoryStorageSlot "{62F7223228D32A56}" {
+      Prefab "{8951045BFE8BC8E4}Prefabs/Characters/HeadGear/FPV_Goggles.et"
+     }
+     NumSlots 1
+    }
+   }
+  }
+ }
+ coords 1467.053 20.991 2336.309
+ angles 6.677 -62.487 5.017
+}
+SCR_EditorRestrictionZoneEntity : "{B2A519402E9AC209}PrefabsEditable/RestrictionZone/E_EditorRestrictionZoneLarge.et" {
+ coords 1492.085 22.52 2350.528
+ m_fWarnRadius 140
+ m_fZoneRadius 150
+ m_fZoneTeleportedRadius 150
+}

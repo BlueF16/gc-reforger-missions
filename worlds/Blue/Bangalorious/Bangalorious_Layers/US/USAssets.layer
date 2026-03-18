@@ -1,0 +1,240 @@
+$grp Tank : "{172B23B6B170B85A}worlds/Blue/LeadTheWay/Data/M113_APC_LOCKED.et" {
+ M113_APC_LOCKED1 {
+  coords 4424.432 17.309 1378.798
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED2 {
+  coords 4411.964 17.202 1382.927
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED3 {
+  coords 4403.517 17.117 1395.394
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED4 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5E78B2EECD014A90}" {
+    MultiSlots {
+     MultiSlotConfiguration "{68D4EDE354532CCB}" {
+      SlotTemplate InventoryStorageSlot BANGALORE {
+       Prefab "{6C15A3726729087D}Prefabs/Weapons/Explosives/M1A2_Bangalore/M1A2_Bangalore.et"
+      }
+      NumSlots 15
+     }
+     MultiSlotConfiguration "{68D4EDDAA9B5B190}" {
+      SlotTemplate InventoryStorageSlot alcie {
+       Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+      }
+      NumSlots 5
+     }
+    }
+   }
+  }
+  coords 4390.485 16.96 1398.99
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED5 {
+  coords 4380.861 17.489 1410.441
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED6 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5E78B2EECD014A90}" {
+    MultiSlots {
+     MultiSlotConfiguration "{68D4EDE34559ADA8}" {
+      SlotTemplate InventoryStorageSlot BANGALORE {
+       Prefab "{6C15A3726729087D}Prefabs/Weapons/Explosives/M1A2_Bangalore/M1A2_Bangalore.et"
+      }
+      NumSlots 15
+     }
+     MultiSlotConfiguration "{68D4EDDAEE13EDF0}" {
+      SlotTemplate InventoryStorageSlot Alice {
+       Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+      }
+      NumSlots 5
+     }
+    }
+   }
+  }
+  coords 4358.133 17.243 1421.29
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED7 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5E78B2EECD014A90}" {
+    MultiSlots {
+     MultiSlotConfiguration "{68D4EDE0C14C1AA1}" {
+      SlotTemplate InventoryStorageSlot BANGALORE {
+       Prefab "{6C15A3726729087D}Prefabs/Weapons/Explosives/M1A2_Bangalore/M1A2_Bangalore.et"
+      }
+      NumSlots 15
+     }
+     MultiSlotConfiguration "{68D4EDDA81ECAE0B}" {
+      SlotTemplate InventoryStorageSlot Alaice {
+       Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+      }
+      NumSlots 5
+     }
+    }
+   }
+  }
+  coords 4342.422 16.714 1430.412
+  angles -2.216 -146.88 1.758
+ }
+ M113_APC_LOCKED8 {
+  coords 4330.496 16.242 1437.696
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED9 {
+  coords 4320.76 15.817 1446.639
+  angles 0 -143.298 0
+ }
+ M113_APC_LOCKED10 {
+  coords 4307.407 15.293 1455.101
+  angles 0 -143.298 0
+ }
+}
+$grp GenericEntity : "{59E846445A56B65C}Prefabs/Props/Military/AmmoBoxes/US/EquipmentBoxWooden_Equipment_01_US.et" {
+ {
+  components {
+   SCR_SoundDataComponent "{5C53391603B5CF41}" {
+    Enabled 1
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    Enabled 1
+    MultiSlots {
+     MultiSlotConfiguration "{68CEBE1EB22B5E72}" {
+      SlotTemplate InventoryStorageSlot HE {
+       Prefab "{38BAE094333E31BF}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_HE_M821.et"
+      }
+      NumSlots 130
+     }
+     MultiSlotConfiguration "{68CEBE1EB2B46AD9}" {
+      SlotTemplate InventoryStorageSlot SMOKE {
+       Prefab "{F7807293E94D3C88}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Smoke_M819.et"
+      }
+      NumSlots 400
+     }
+     MultiSlotConfiguration "{68CEBE1EB374B824}" {
+      SlotTemplate InventoryStorageSlot RANGECARD {
+       Prefab "{6113990D163E5249}Prefabs/Items/Equipment/BalisticTable/BalisticTable_US.et"
+      }
+      NumSlots 2
+     }
+     MultiSlotConfiguration "{68CEBE1EB33B173E}" {
+      SlotTemplate InventoryStorageSlot alice {
+       Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   ActionsManagerComponent "{5476B36C403D4CC0}" {
+    Enabled 1
+   }
+   RplComponent "{5476B36C54387F41}" {
+    Enabled 1
+   }
+  }
+  coords 4386.799 20.347 1711.548
+  angles -1.097 -36.69 0.435
+ }
+ {
+  components {
+   SCR_SoundDataComponent "{5C53391603B5CF41}" {
+    Enabled 1
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    Enabled 1
+    MultiSlots {
+     MultiSlotConfiguration "{68CEBE1EB22B5E72}" {
+      SlotTemplate InventoryStorageSlot HE {
+       Prefab "{38BAE094333E31BF}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_HE_M821.et"
+      }
+      NumSlots 130
+     }
+     MultiSlotConfiguration "{68CEBE1EB2B46AD9}" {
+      SlotTemplate InventoryStorageSlot SMOKE {
+       Prefab "{F7807293E94D3C88}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Smoke_M819.et"
+      }
+      NumSlots 400
+     }
+     MultiSlotConfiguration "{68CEBE1EB374B824}" {
+      SlotTemplate InventoryStorageSlot RANGECARD {
+       Prefab "{6113990D163E5249}Prefabs/Items/Equipment/BalisticTable/BalisticTable_US.et"
+      }
+      NumSlots 2
+     }
+     MultiSlotConfiguration "{68CEBE1EB33B173E}" {
+      SlotTemplate InventoryStorageSlot alice {
+       Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   ActionsManagerComponent "{5476B36C403D4CC0}" {
+    Enabled 1
+   }
+   RplComponent "{5476B36C54387F41}" {
+    Enabled 1
+   }
+  }
+  coords 4397.503 20.858 1694.094
+  angles -1.097 -36.69 0.435
+ }
+ {
+  components {
+   SCR_SoundDataComponent "{5C53391603B5CF41}" {
+    Enabled 1
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    Enabled 1
+    MultiSlots {
+     MultiSlotConfiguration "{68CEBE1EB22B5E72}" {
+      SlotTemplate InventoryStorageSlot HE {
+       Prefab "{38BAE094333E31BF}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_HE_M821.et"
+      }
+      NumSlots 130
+     }
+     MultiSlotConfiguration "{68CEBE1EB2B46AD9}" {
+      SlotTemplate InventoryStorageSlot SMOKE {
+       Prefab "{F7807293E94D3C88}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Smoke_M819.et"
+      }
+      NumSlots 400
+     }
+     MultiSlotConfiguration "{68CEBE1EB374B824}" {
+      SlotTemplate InventoryStorageSlot RANGECARD {
+       Prefab "{6113990D163E5249}Prefabs/Items/Equipment/BalisticTable/BalisticTable_US.et"
+      }
+      NumSlots 2
+     }
+     MultiSlotConfiguration "{68CEBE1EB33B173E}" {
+      SlotTemplate InventoryStorageSlot alice {
+       Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   ActionsManagerComponent "{5476B36C403D4CC0}" {
+    Enabled 1
+   }
+   RplComponent "{5476B36C54387F41}" {
+    Enabled 1
+   }
+  }
+  coords 4375.641 19.866 1728.124
+  angles -1.097 -36.69 0.435
+ }
+}
+$grp GenericEntity : "{640D7AFB774E98A4}worlds/Blue/LeadTheWay/Data/M252PIT_NOARSENAL.et" {
+ {
+ }
+ {
+  coords 4373.62 19.685 1729.386
+ }
+ {
+  coords 4395.451 20.679 1695.249
+ }
+}

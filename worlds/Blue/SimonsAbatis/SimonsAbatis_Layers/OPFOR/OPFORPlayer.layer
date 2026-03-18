@@ -1,7 +1,8 @@
 $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRifleSquad_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{652F5C6E746ACE30}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 3
     m_iSquadCallsign 1
    }
@@ -14,7 +15,8 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  }
  {
   components {
-   PS_GroupCallsignAssigner "{652F5C6E746ACE30}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 3
    }
   }
@@ -26,7 +28,8 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  }
  {
   components {
-   PS_GroupCallsignAssigner "{652F5C6E746ACE30}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 3
     m_iSquadCallsign 3
    }
@@ -39,7 +42,8 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  }
  {
   components {
-   PS_GroupCallsignAssigner "{652F5C6E746ACE30}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 3
     m_iPlatoonCallsign 2
     m_iSquadCallsign 7
@@ -53,7 +57,8 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  }
  TANK {
   components {
-   PS_GroupCallsignAssigner "{652F5C6E746ACE30}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 4
     m_iPlatoonCallsign 3
    }
@@ -116,7 +121,8 @@ PolylineShapeEntity OPFOR_AO : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOL
 }
 SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRiflePHQ_P.et" {
  components {
-  PS_GroupCallsignAssigner "{65136701CA021D8F}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 3
   }
  }

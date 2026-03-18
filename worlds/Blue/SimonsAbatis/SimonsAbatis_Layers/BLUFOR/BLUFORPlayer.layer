@@ -1,6 +1,7 @@
 SCR_AIGroup : "{047DC6ADED8DE5E2}Prefabs/Groups/BLUFOR/GC_CAF/1993 Canadian Army/P/Group_CAF_1993_Mortar_Crew_P.et" {
  components {
-  PS_GroupCallsignAssigner "{651F086F466146B6}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    Enabled 1
    m_iCompanyCallsign 4
    m_iPlatoonCallsign 1
@@ -15,7 +16,8 @@ SCR_AIGroup : "{047DC6ADED8DE5E2}Prefabs/Groups/BLUFOR/GC_CAF/1993 Canadian Army
 $grp SCR_AIGroup : "{0C17A1C879905D5A}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian Army/Group_CAF_RifleSection_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{64C4A6A68771BD44}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
    }
@@ -28,7 +30,8 @@ $grp SCR_AIGroup : "{0C17A1C879905D5A}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian
  }
  {
   components {
-   PS_GroupCallsignAssigner "{64C4A6A68771BD44}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
    }
@@ -106,7 +109,8 @@ PolylineShapeEntity BLUFOR_AO : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AO
 }
 SCR_AIGroup : "{977831D0F745FF87}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian Army/Group_CAF_PlatoonHQ_P.et" {
  components {
-  PS_GroupCallsignAssigner "{64C4A6A69E46082A}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
   }
  }
@@ -114,7 +118,8 @@ SCR_AIGroup : "{977831D0F745FF87}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian Army
 }
 SCR_AIGroup : "{A39EEA59984DF6DE}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian Army/Group_CAF_WeaponsSection_Alt_P.et" {
  components {
-  PS_GroupCallsignAssigner "{68C2EA8194F8DAD8}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
    m_iSquadCallsign 4
   }

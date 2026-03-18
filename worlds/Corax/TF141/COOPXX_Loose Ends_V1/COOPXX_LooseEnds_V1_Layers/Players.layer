@@ -25,7 +25,8 @@ SCR_AIGroup : "{36964CCA089D327F}Prefabs/Groups/BLUFOR/US/Army/2009/Delta Force/
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{6508C3585B3D9C73}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 5
    m_iSquadCallsign 3
   }
@@ -39,7 +40,8 @@ $grp SCR_AIGroup : "{715D5CD2DD77ACBB}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6508C3587600561A}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 5
     m_iSquadCallsign 1
    }
@@ -52,7 +54,8 @@ $grp SCR_AIGroup : "{715D5CD2DD77ACBB}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6508C3586504E82B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 5
     m_iSquadCallsign 2
    }
@@ -67,7 +70,8 @@ SCR_AIGroup : "{A11462D28E26DED0}Prefabs/Groups/BLUFOR/US/Army/2009/Delta Force/
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{6508C3588EC45DEF}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 5
    m_iSquadCallsign 4
   }

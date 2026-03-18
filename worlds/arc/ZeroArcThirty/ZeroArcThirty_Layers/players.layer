@@ -1,7 +1,8 @@
 $grp SCR_AIGroup : "{51C9284F0B4E895C}Prefabs/Groups/BLUFOR/US/Army_2019_Rangers/P/Group_Rangers_2019_Squad_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C82382D95B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -9,7 +10,8 @@ $grp SCR_AIGroup : "{51C9284F0B4E895C}Prefabs/Groups/BLUFOR/US/Army_2019_Rangers
  }
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C83E67471B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -19,7 +21,8 @@ $grp SCR_AIGroup : "{51C9284F0B4E895C}Prefabs/Groups/BLUFOR/US/Army_2019_Rangers
 $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INSURGENT_RifleSquad_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C8BC2D6D09}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
    }
   }
   coords 2587.401 143.344 8903.63
@@ -31,7 +34,8 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  }
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C8BFFEF286}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -43,7 +47,8 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  }
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C8BAB40F90}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -57,7 +62,8 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
 $grp SCR_AIGroup : "{FBC6FDD05CED317D}Prefabs/Groups/BLUFOR/US/Army_2019_Rangers/P/Group_Rangers_2019_PHQ_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C826321D72}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
    }
   }
   coords 8406.349 111.531 7104.529
@@ -67,7 +73,8 @@ $grp SCR_AIGroup : "{FBC6FDD05CED317D}Prefabs/Groups/BLUFOR/US/Army_2019_Rangers
  }
  {
   components {
-   PS_GroupCallsignAssigner "{632F59C83B58501A}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
    }
   }

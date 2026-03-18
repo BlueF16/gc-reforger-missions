@@ -109,7 +109,7 @@ TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramewor
    }
   }
  }
- m_factionPlayersKilledFlags {
+ m_casualtyFlags {
   TILW_FactionPlayersKilledFlag "{68A976BDD8BF0CC3}" {
    m_flagName "US"
    m_factionKey "RHS_USAF"

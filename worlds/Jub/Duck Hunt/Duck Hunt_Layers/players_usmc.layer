@@ -3,7 +3,8 @@ SCR_AIGroup usmc_snipers : "{464268B2BFA7FE84}GitHub/gc-reforger-units/Prefabs/G
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{66033D8C662524F2}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
    m_iSquadCallsign 1
   }

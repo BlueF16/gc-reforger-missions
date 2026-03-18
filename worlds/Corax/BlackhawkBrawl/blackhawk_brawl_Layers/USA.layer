@@ -1,7 +1,8 @@
 $grp SCR_AIGroup : "{5EC92F8C0BC6001E}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID (Woodland)/Group_US_Army_7ID_1986_PHQ.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312666BE7C6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
    }
   }
@@ -10,7 +11,8 @@ $grp SCR_AIGroup : "{5EC92F8C0BC6001E}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312B9E6B4B7}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
    }
   }
@@ -28,7 +30,8 @@ $grp SCR_AIGroup : "{5EC92F8C0BC6001E}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
 $grp SCR_AIGroup : "{D935DD01ADA2B253}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID (Woodland)/Group_US_Army_7ID_1986_RifleSquad.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312ADCB1C51}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
    }
@@ -39,7 +42,8 @@ $grp SCR_AIGroup : "{D935DD01ADA2B253}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312D5987AC8}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
    }
@@ -50,7 +54,8 @@ $grp SCR_AIGroup : "{D935DD01ADA2B253}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312CE0D9D11}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 3
    }
@@ -61,7 +66,8 @@ $grp SCR_AIGroup : "{D935DD01ADA2B253}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312FF787E96}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 1
    }
@@ -80,7 +86,8 @@ $grp SCR_AIGroup : "{D935DD01ADA2B253}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312E6218B40}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 2
    }
@@ -99,7 +106,8 @@ $grp SCR_AIGroup : "{D935DD01ADA2B253}Prefabs/Groups/BLUFOR/US/Army/1986/7th ID 
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A0F312E0A6C19D}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 3
    }

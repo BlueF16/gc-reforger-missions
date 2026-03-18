@@ -1,6 +1,7 @@
 SCR_AIGroup Group_US_MC_LAR_1990_A1_P : "{37744AC8AFE74FAC}Prefabs/Groups/BLUFOR/US/Marines/1995/LAR/Group_US_MC_LAR_1990_A1_P.et" {
  components {
-  PS_GroupCallsignAssigner "{650ACCA00E4EC327}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 4
    m_iPlatoonCallsign 5
   }
@@ -11,7 +12,8 @@ SCR_AIGroup Group_US_MC_LAR_1990_A1_P : "{37744AC8AFE74FAC}Prefabs/Groups/BLUFOR
 }
 SCR_AIGroup Group_US_MC_LAR_1990_B1_P_1 : "{3D8F4907EE2A7AD3}Prefabs/Groups/BLUFOR/US/Marines/1995/LAR/Group_US_MC_LAR_1990_B1_P.et" {
  components {
-  PS_GroupCallsignAssigner "{650ACCA00E4EC327}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 4
    m_iPlatoonCallsign 5
   }
@@ -25,7 +27,8 @@ $grp SCR_AIGroup : "{4462DE540BE8B450}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{65455E36CF67AC8B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
    }
@@ -39,7 +42,8 @@ $grp SCR_AIGroup : "{4462DE540BE8B450}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{65455E36C51FB319}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 3
    }
@@ -53,7 +57,8 @@ $grp SCR_AIGroup : "{4462DE540BE8B450}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{65455E39E8EA7B9C}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 4
    }
@@ -67,7 +72,8 @@ $grp SCR_AIGroup : "{4462DE540BE8B450}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{65455E36BAE3A5F4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
    }
@@ -84,7 +90,8 @@ SCR_AIGroup Group_US_Army_1985_MechSquad_P_6 : "{4D7315B25A803917}Prefabs/Groups
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Line"
   }
-  PS_GroupCallsignAssigner "{65455E39C4728284}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 1
   }
  }
@@ -95,7 +102,8 @@ SCR_AIGroup Group_US_Army_1985_MechSquad_P_6 : "{4D7315B25A803917}Prefabs/Groups
 }
 SCR_AIGroup Group_US_MC_LAR_1990_B2_P_1 : "{6367604451A7F4DC}Prefabs/Groups/BLUFOR/US/Marines/1995/LAR/Group_US_MC_LAR_1990_B2_P.et" {
  components {
-  PS_GroupCallsignAssigner "{650ACCA00E4EC327}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 4
    m_iPlatoonCallsign 5
   }
@@ -105,7 +113,8 @@ SCR_AIGroup Group_US_MC_LAR_1990_B2_P_1 : "{6367604451A7F4DC}Prefabs/Groups/BLUF
 }
 SCR_AIGroup Group_US_MC_LAR_1990_A2_P_1 : "{69C23009E7B7075B}Prefabs/Groups/BLUFOR/US/Marines/1995/LAR/Group_US_MC_LAR_1990_A2_P.et" {
  components {
-  PS_GroupCallsignAssigner "{650ACCA00E4EC327}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 4
    m_iPlatoonCallsign 5
   }

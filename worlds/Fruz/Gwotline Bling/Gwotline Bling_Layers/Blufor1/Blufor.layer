@@ -1,7 +1,8 @@
 $grp SCR_AIGroup : "{2B6A737E854586F0}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers/P/Group_Ranger_2009_HQ_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{6508C3582F634926}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 0
    }
   }
@@ -14,7 +15,8 @@ $grp SCR_AIGroup : "{2B6A737E854586F0}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers
  }
  L47 {
   components {
-   PS_GroupCallsignAssigner "{6508C3582F634926}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 4
     m_iSquadCallsign 7
@@ -29,7 +31,8 @@ $grp SCR_AIGroup : "{2B6A737E854586F0}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers
  }
  L46 {
   components {
-   PS_GroupCallsignAssigner "{6508C3582F634926}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 4
     m_iSquadCallsign 6
@@ -44,7 +47,8 @@ $grp SCR_AIGroup : "{2B6A737E854586F0}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers
  }
  S51 {
   components {
-   PS_GroupCallsignAssigner "{6508C3582F634926}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 3
     m_iPlatoonCallsign 5
     m_iSquadCallsign 1
@@ -59,7 +63,8 @@ $grp SCR_AIGroup : "{2B6A737E854586F0}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers
  }
  S52 {
   components {
-   PS_GroupCallsignAssigner "{6508C3582F634926}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 3
     m_iPlatoonCallsign 5
     m_iSquadCallsign 2
@@ -79,7 +84,8 @@ $grp SCR_AIGroup : "{36964CCA089D327F}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{68B37CEF862EBFE6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
@@ -94,7 +100,8 @@ $grp SCR_AIGroup : "{36964CCA089D327F}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{68B37CEF862EBFE6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
@@ -108,7 +115,8 @@ $grp SCR_AIGroup : "{36964CCA089D327F}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
 $grp SCR_AIGroup : "{9FA44AED55972EA9}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers/P/Group_Ranger_2009_Squad_P.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{6508C35869053D73}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 0
     m_iSquadCallsign 3
    }
@@ -126,7 +134,8 @@ $grp SCR_AIGroup : "{9FA44AED55972EA9}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers
  }
  {
   components {
-   PS_GroupCallsignAssigner "{6508C35869053D73}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 0
    }
   }
@@ -143,7 +152,8 @@ $grp SCR_AIGroup : "{9FA44AED55972EA9}Prefabs/Groups/BLUFOR/US/Army/2009/Rangers
  }
  {
   components {
-   PS_GroupCallsignAssigner "{6508C35869053D73}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 0
     m_iSquadCallsign 2
    }

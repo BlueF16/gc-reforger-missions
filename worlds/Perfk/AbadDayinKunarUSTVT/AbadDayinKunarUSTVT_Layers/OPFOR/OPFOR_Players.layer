@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_P
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B74360345}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
    }
   }
@@ -22,7 +23,8 @@ $grp SCR_AIGroup : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_P
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B74360345}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
    }
   }
@@ -40,7 +42,8 @@ $grp SCR_AIGroup : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_P
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B74360345}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 5
    }
    SCR_EditableGroupComponent "{50D291F6C83FA532}" {
@@ -65,7 +68,8 @@ $grp SCR_AIGroup : "{F0C5E14EBC0C9566}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_R
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B538822B4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 3
    }
@@ -87,7 +91,8 @@ $grp SCR_AIGroup : "{F0C5E14EBC0C9566}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_R
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B538822B4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
    }
@@ -109,7 +114,8 @@ $grp SCR_AIGroup : "{F0C5E14EBC0C9566}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_R
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B538822B4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
    }
@@ -131,7 +137,8 @@ $grp SCR_AIGroup : "{F0C5E14EBC0C9566}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_R
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B538822B4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 3
    }
@@ -153,7 +160,8 @@ $grp SCR_AIGroup : "{F0C5E14EBC0C9566}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_R
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B538822B4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 1
    }
@@ -175,7 +183,8 @@ $grp SCR_AIGroup : "{F0C5E14EBC0C9566}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_R
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{6727355B538822B4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 2
     m_iSquadCallsign 2
    }

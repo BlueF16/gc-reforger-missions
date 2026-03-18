@@ -5,7 +5,8 @@ SCR_AIGroup : "{2D1AC8714A6D8BC9}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/Group
   }
   PK_EntityProtectorComponent "{68B4C8C7106F51C9}" {
   }
-  PS_GroupCallsignAssigner "{68B2C7AF78BCB6C2}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iCompanyCallsign 2
    m_iPlatoonCallsign 2
    m_iSquadCallsign 1
@@ -27,7 +28,8 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
    }
    PK_EntityProtectorComponent "{68B4C8C712D00448}" {
    }
-   PS_GroupCallsignAssigner "{68B2C7AF74E95B24}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
     m_iSquadCallsign 2
@@ -43,7 +45,8 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
    }
    PK_EntityProtectorComponent "{68B4C8C7165E1637}" {
    }
-   PS_GroupCallsignAssigner "{68B2C7AF6EE9B5C6}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
     m_iSquadCallsign 3
@@ -59,7 +62,8 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
    }
    PK_EntityProtectorComponent "{68B4C8C70A9DB151}" {
    }
-   PS_GroupCallsignAssigner "{68B2C7AF6354E7D9}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 2
     m_iPlatoonCallsign 2
     m_iSquadCallsign 4

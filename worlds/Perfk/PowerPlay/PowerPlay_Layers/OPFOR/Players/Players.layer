@@ -1,12 +1,20 @@
-SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/GC_SEPARATIST_1990_RifleSquad_P.et" {
+SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/Group_SEP_1990_RifleSquad_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
    Enabled 0
   }
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
+  }
  }
  coords 1700.962 64.351 3346.212
  m_aUnitPrefabSlots {
-  "{730520492F439698}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_SL_P.et" "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et" "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et" "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et" "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et" "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et"
+  "{730520492F439698}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_SL_P.et"
+  "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et"
+  "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et"
+  "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et"
+  "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et"
+  "{C62B9817669A3BAC}Prefabs/Characters/Factions/OPFOR/GC_SEP/1990/P/Character_SEP_1990_Rifleman_P.et"
  }
 }
 PolylineShapeEntity opforAoLimit : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {

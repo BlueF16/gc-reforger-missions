@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{025805D08C00D2ED}Prefabs/Groups/OPFOR/GC_ARG/1980_Regulars/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6676E0AD0A97FAB5}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 1
    }
@@ -20,7 +21,8 @@ $grp SCR_AIGroup : "{025805D08C00D2ED}Prefabs/Groups/OPFOR/GC_ARG/1980_Regulars/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6676E0AD0D5AA571}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 2
    }
@@ -35,7 +37,8 @@ $grp SCR_AIGroup : "{025805D08C00D2ED}Prefabs/Groups/OPFOR/GC_ARG/1980_Regulars/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6676E0AD00F0381A}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 3
    }
@@ -50,7 +53,8 @@ $grp SCR_AIGroup : "{025805D08C00D2ED}Prefabs/Groups/OPFOR/GC_ARG/1980_Regulars/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{6676E0AD00F0381A}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 6
     m_iSquadCallsign 4
    }
@@ -67,7 +71,8 @@ SCR_AIGroup : "{5377F041D186552F}Prefabs/Groups/OPFOR/GC_ARG/1980_Regulars/P/Gro
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{6676E0AD04A3BA29}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 6
   }
  }

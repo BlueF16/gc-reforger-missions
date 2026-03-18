@@ -1,6 +1,7 @@
 SCR_AIGroup : "{05C8C3FD535E3087}worlds/TheLocalPub/PublicEnemies/Prefabs/AI/Groups/Blufor/Group_Federal_CaptainTeam.et" {
  components {
-  PS_GroupCallsignAssigner "{68A76937FB85768D}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iSquadCallsign 2
   }
  }
@@ -10,7 +11,8 @@ SCR_AIGroup : "{05C8C3FD535E3087}worlds/TheLocalPub/PublicEnemies/Prefabs/AI/Gro
 $grp SCR_AIGroup : "{35CB89A86E6851DB}worlds/TheLocalPub/PublicEnemies/Prefabs/AI/Groups/Blufor/Group_Federal_StandardTeam.et" {
  {
   components {
-   PS_GroupCallsignAssigner "{68A76937FDEF725B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 3
    }
   }
@@ -19,7 +21,8 @@ $grp SCR_AIGroup : "{35CB89A86E6851DB}worlds/TheLocalPub/PublicEnemies/Prefabs/A
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A76937F5CC5DF0}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 4
    }
   }
@@ -28,7 +31,8 @@ $grp SCR_AIGroup : "{35CB89A86E6851DB}worlds/TheLocalPub/PublicEnemies/Prefabs/A
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A76937F5CC5DF0}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 5
    }
   }
@@ -37,7 +41,8 @@ $grp SCR_AIGroup : "{35CB89A86E6851DB}worlds/TheLocalPub/PublicEnemies/Prefabs/A
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A76937F5CC5DF0}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 6
    }
   }
@@ -46,7 +51,8 @@ $grp SCR_AIGroup : "{35CB89A86E6851DB}worlds/TheLocalPub/PublicEnemies/Prefabs/A
  }
  {
   components {
-   PS_GroupCallsignAssigner "{68A76937F5CC5DF0}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 7
    }
   }
@@ -56,7 +62,8 @@ $grp SCR_AIGroup : "{35CB89A86E6851DB}worlds/TheLocalPub/PublicEnemies/Prefabs/A
 }
 SCR_AIGroup : "{FAE41331EAAB0399}worlds/TheLocalPub/PublicEnemies/Prefabs/AI/Groups/Blufor/Group_Federal_ChiefTeam.et" {
  components {
-  PS_GroupCallsignAssigner "{68A769378C7C78A8}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iSquadCallsign 1
   }
  }

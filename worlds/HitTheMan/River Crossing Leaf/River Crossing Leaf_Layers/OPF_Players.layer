@@ -3,7 +3,8 @@ SCR_AIGroup USSR_Riflesquad : "{6234FDCD2B1D95BF}Prefabs/Groups/OPFOR/USSR/Sovie
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{6158048CF383107C}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
    m_iPlatoonCallsign 2
    m_iSquadCallsign 3
   }

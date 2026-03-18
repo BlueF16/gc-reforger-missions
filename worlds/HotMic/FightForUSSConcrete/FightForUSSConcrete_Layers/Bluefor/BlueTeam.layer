@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F63FC7441}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -20,7 +21,8 @@ $grp SCR_AIGroup : "{11C0183AB214797E}Prefabs/Groups/BLUFOR/US/Marines/2020/Mari
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
    }
-   PS_GroupCallsignAssigner "{6651352F63FC7441}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -37,7 +39,8 @@ SCR_AIGroup : "{464268B2BFA7FE84}Prefabs/Groups/BLUFOR/US/Marines/2020/Marine Ri
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "line"
   }
-  PS_GroupCallsignAssigner "{6651352F0AF8E200}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
   }
  }
  coords 4359.231 18.106 11175.46

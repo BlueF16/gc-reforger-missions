@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{2F2E162C9B835EFB}Prefabs/Groups/OPFOR/GC_INSURGENT/Afghan I
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{66B97548B920A1BC}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -24,7 +25,8 @@ $grp SCR_AIGroup : "{2F2E162C9B835EFB}Prefabs/Groups/OPFOR/GC_INSURGENT/Afghan I
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{66B97548B920A1BC}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -45,7 +47,8 @@ SCR_AIGroup Cell0HQi : "{3D708B262E8A46A3}Prefabs/Groups/OPFOR/GC_INSURGENT/Afgh
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "file"
   }
-  PS_GroupCallsignAssigner "{66B97548A4F0DE47}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
   }
  }
  coords 992.279 32 3270.539

@@ -15,7 +15,8 @@ SCR_AIGroup GR_SEP_HQ : "{2D1AC8714A6D8BC9}Prefabs/Groups/OPFOR/GC_SEPARATIST/19
   AIFormationComponent "{507E9DC12F541FE6}" {
    Enabled 0
   }
-  PS_GroupCallsignAssigner "{66DCB8D35A90D692}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
   }
  }
  coords 7591.729 217.353 6827.339
@@ -33,7 +34,8 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{66DCB8D3513C6B7D}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -52,7 +54,8 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
    }
-   PS_GroupCallsignAssigner "{66DCB8D35286E653}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }

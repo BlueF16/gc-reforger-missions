@@ -217,7 +217,8 @@ $grp SCR_AIGroup : "{6A5FB93017D924FA}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDE9BA1FB80F}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 5
     m_iPlatoonCallsign 1
     m_iSquadCallsign 3
@@ -237,7 +238,8 @@ $grp SCR_AIGroup : "{6A5FB93017D924FA}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDEA7AA7A434}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 3
     m_iSquadCallsign 1
    }
@@ -260,7 +262,8 @@ $grp SCR_AIGroup : "{6A5FB93017D924FA}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDE9B48E42A4}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 5
     m_iPlatoonCallsign 1
     m_iSquadCallsign 2
@@ -280,7 +283,8 @@ $grp SCR_AIGroup : "{6A5FB93017D924FA}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDEA450E2838}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 3
     m_iSquadCallsign 2
    }
@@ -303,7 +307,8 @@ $grp SCR_AIGroup : "{6A5FB93017D924FA}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDE9801283AB}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 5
     m_iPlatoonCallsign 1
     m_iSquadCallsign 4
@@ -323,7 +328,8 @@ $grp SCR_AIGroup : "{6A5FB93017D924FA}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDEA4D6F5F5B}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 3
     m_iSquadCallsign 3
    }
@@ -455,7 +461,8 @@ $grp SCR_AIGroup : "{CF4CEB0C1C53CE2A}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "line"
    }
-   PS_GroupCallsignAssigner "{673EEDEA6F4CDAEB}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iPlatoonCallsign 3
    }
   }
@@ -467,7 +474,8 @@ $grp SCR_AIGroup : "{CF4CEB0C1C53CE2A}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "linw"
    }
-   PS_GroupCallsignAssigner "{673EEDEAE14A301C}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 5
     m_iPlatoonCallsign 1
     m_iSquadCallsign 1
@@ -487,7 +495,8 @@ $grp SCR_AIGroup : "{CF4CEB0C1C53CE2A}Prefabs/Groups/BLUFOR/British Forces/1989/
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "linw"
    }
-   PS_GroupCallsignAssigner "{673EEDEA5446BEBF}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 7
     m_iPlatoonCallsign 6
     m_iSquadCallsign 1

@@ -4,7 +4,8 @@ $grp SCR_AIGroup : "{9FF025AC10641CFE}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{685E07898580FDCC}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 4
    }
   }
@@ -17,7 +18,8 @@ $grp SCR_AIGroup : "{9FF025AC10641CFE}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{685E07898580FDCC}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 5
@@ -36,7 +38,8 @@ $grp SCR_AIGroup : "{9FF025AC10641CFE}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{685E07898580FDCC}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iCompanyCallsign 1
     m_iPlatoonCallsign 1
     m_iSquadCallsign 6
@@ -57,7 +60,8 @@ $grp SCR_AIGroup : "{C0D5DEC11F09B60D}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{685E07897D8501F9}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 1
    }
   }
@@ -70,7 +74,8 @@ $grp SCR_AIGroup : "{C0D5DEC11F09B60D}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{685E0789739F421F}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 2
    }
   }
@@ -83,7 +88,8 @@ $grp SCR_AIGroup : "{C0D5DEC11F09B60D}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "file"
    }
-   PS_GroupCallsignAssigner "{685E078977200929}" {
+   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+    Enabled 1
     m_iSquadCallsign 3
    }
   }
@@ -97,7 +103,8 @@ SCR_AIGroup PltHQ : "{DE58221F44A01B5A}Prefabs/Groups/BLUFOR/US/Army/2003/Infant
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "file"
   }
-  PS_GroupCallsignAssigner "{685E0789673BC412}" {
+  PS_GroupCallsignAssigner "{63616C6C7369676E}" {
+   Enabled 1
   }
  }
  coords 4731.594 19.671 4729.929
