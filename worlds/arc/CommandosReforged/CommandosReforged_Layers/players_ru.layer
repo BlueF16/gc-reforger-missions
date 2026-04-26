@@ -18,7 +18,7 @@ $grp SCR_AIGroup : "{312B31A3D81EF88A}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -36,7 +36,7 @@ $grp SCR_AIGroup : "{312B31A3D81EF88A}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

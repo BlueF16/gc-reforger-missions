@@ -7,8 +7,8 @@ SCR_AIGroup : "{4ED44E08226F3FB3}Prefabs/Groups/OPFOR/GC_SEPARATIST/2020/P/Group
  }
  coords 6547.99 198.452 6598.4
 }
-Vehicle GAZ_TIGR_v2_KORD_Green1 : "{7A16FB788DAD3992}Prefabs/Vehicles/Wheeled/TIGR/KORD/GAZ_TIGR_v2_KORD_Green.et" {
- coords 6567.017 197.311 6620.238
+Vehicle GAZ_TIGR_v2_PKM1 : "{7BC76F92B882889D}Prefabs/Vehicles/Wheeled/TIGR/PKP/GAZ_TIGR_v2_PKM.et" {
+ coords 6567.625 197.293 6615.457
 }
 $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/2020/P/Group_SEP_RifleSquad_P.et" {
  {

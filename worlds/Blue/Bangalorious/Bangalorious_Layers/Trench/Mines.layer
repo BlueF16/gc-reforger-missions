@@ -134,7 +134,7 @@ $grp GenericEntity : "{BA5F9852DD7255E4}PrefabsEditable/EffectsModules/Mine/Base
     }
    }
   }
-  coords 3506.926 24.651 1146.71
+  coords 3506.584 24.651 1145.996
   angles 0 115.603 0
  }
  WestMinefieldAP5 {
@@ -153,7 +153,7 @@ $grp GenericEntity : "{BA5F9852DD7255E4}PrefabsEditable/EffectsModules/Mine/Base
     }
    }
   }
-  coords 3364.927 25.637 1194.892
+  coords 3364.642 25.637 1193.815
   angles 0 104.828 0
  }
 }

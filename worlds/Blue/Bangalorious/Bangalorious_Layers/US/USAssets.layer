@@ -1,4 +1,4 @@
-$grp Tank : "{172B23B6B170B85A}worlds/Blue/LeadTheWay/Data/M113_APC_LOCKED.et" {
+$grp Tank : "{172B23B6B170B85A}worlds/Blue/Bangalorious/Data/M113_APC_LOCKED.et" {
  M113_APC_LOCKED1 {
   coords 4424.432 17.309 1378.798
   angles 0 -143.298 0
@@ -25,7 +25,13 @@ $grp Tank : "{172B23B6B170B85A}worlds/Blue/LeadTheWay/Data/M113_APC_LOCKED.et" {
       SlotTemplate InventoryStorageSlot alcie {
        Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
       }
-      NumSlots 5
+      NumSlots 10
+     }
+     MultiSlotConfiguration "{68E5266C7A158E85}" {
+      SlotTemplate InventoryStorageSlot M60Rounds {
+       Prefab "{4D2C1E8F3A81F894}Prefabs/Weapons/Magazines/Box_762x51_M60_100rnd_4Ball_1Tracer.et"
+      }
+      NumSlots 20
      }
     }
    }
@@ -52,6 +58,12 @@ $grp Tank : "{172B23B6B170B85A}worlds/Blue/LeadTheWay/Data/M113_APC_LOCKED.et" {
        Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
       }
       NumSlots 5
+     }
+     MultiSlotConfiguration "{68E5266C0CB8BDEB}" {
+      SlotTemplate InventoryStorageSlot M60Rounds {
+       Prefab "{4D2C1E8F3A81F894}Prefabs/Weapons/Magazines/Box_762x51_M60_100rnd_4Ball_1Tracer.et"
+      }
+      NumSlots 20
      }
     }
    }
@@ -228,7 +240,7 @@ $grp GenericEntity : "{59E846445A56B65C}Prefabs/Props/Military/AmmoBoxes/US/Equi
   angles -1.097 -36.69 0.435
  }
 }
-$grp GenericEntity : "{640D7AFB774E98A4}worlds/Blue/LeadTheWay/Data/M252PIT_NOARSENAL.et" {
+$grp GenericEntity : "{640D7AFB774E98A4}worlds/Blue/Bangalorious/Data/M252PIT_NOARSENAL.et" {
  {
  }
  {

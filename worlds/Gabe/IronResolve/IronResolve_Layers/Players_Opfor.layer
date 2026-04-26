@@ -32,7 +32,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  Cell1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1,
@@ -52,7 +52,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  CellRPG {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -73,7 +73,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  Cell2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -93,7 +93,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  Cell3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -113,7 +113,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  Cell4 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -133,7 +133,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
  Cell5 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -154,7 +154,7 @@ $grp SCR_AIGroup : "{80BDE40EE0ADF9E3}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INS
 SCR_AIGroup CellHQ : "{B7430DCCC8D6FA05}Prefabs/Groups/OPFOR/GC_INSURGENT/P/GC_INSURGENT_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "file"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1

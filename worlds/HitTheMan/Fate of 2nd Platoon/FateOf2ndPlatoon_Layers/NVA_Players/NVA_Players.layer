@@ -93,7 +93,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  RifleSquad_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -112,11 +112,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{A69B880DB3917BE5}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_AT1_P.et"
   }
   m_sCustomNameSet "1st Squad"
+  m_bSetPlayable 1
  }
  RifleSquad_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -135,11 +136,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{EB1EF55EF3062BE0}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_MachineGunner_P.et"
    "{90DC37DA0D0120B4}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_Rifleman_P.et"
   }
+  m_bSetPlayable 1
  }
  RifleSquad_3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -159,11 +161,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{90DC37DA0D0120B4}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_Rifleman_P.et"
   }
   m_sCustomNameSet "3rd Squad"
+  m_bSetPlayable 1
  }
  RifleSquad_4 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -183,11 +186,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{A69B880DB3917BE5}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_AT1_P.et"
   }
   m_sCustomNameSet "1st Squad"
+  m_bSetPlayable 1
  }
  T72_Crew_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -204,11 +208,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{9766DC8C4E69A883}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_CrewDriver_P.et"
   }
   m_sCustomNameSet "2nd IFV (BMP-1)"
+  m_bSetPlayable 1
  }
  T72_Crew_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -224,11 +229,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{9766DC8C4E69A883}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_CrewDriver_P.et"
   }
   m_sCustomNameSet "1st IFV (BMP-1)"
+  m_bSetPlayable 1
  }
  RifleSquad_5 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -247,11 +253,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{EB1EF55EF3062BE0}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_MachineGunner_P.et"
    "{90DC37DA0D0120B4}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_Rifleman_P.et"
   }
+  m_bSetPlayable 1
  }
  RifleSquad_6 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -270,13 +277,14 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{EB1EF55EF3062BE0}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_MachineGunner_P.et"
    "{90DC37DA0D0120B4}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_Rifleman_P.et"
   }
+  m_bSetPlayable 1
  }
 }
 $grp SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRiflePHQ_P.et" {
  MotorPLT_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -292,11 +300,12 @@ $grp SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{E768556E051B2813}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_DeputyPlatoonLeader_P.et"
   }
   m_sCustomNameSet "1st Platoon HQ"
+  m_bSetPlayable 1
  }
  MotorPLT_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -312,11 +321,12 @@ $grp SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{E768556E051B2813}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_DeputyPlatoonLeader_P.et"
   }
   m_sCustomNameSet "2nd Platoon HQ"
+  m_bSetPlayable 1
  }
  CoyHQ {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -333,6 +343,7 @@ $grp SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{2DF30A80B14F510E}Prefabs/Characters/Factions/OPFOR/GC_NVA/P/Character_GC_NVA_Medic_P.et"
   }
   m_sCustomNameSet "Company HQ"
+  m_bSetPlayable 1
  }
 }
 SCR_EditorRestrictionZoneEntity : "{B2A519402E9AC209}PrefabsEditable/RestrictionZone/E_EditorRestrictionZoneLarge.et" {

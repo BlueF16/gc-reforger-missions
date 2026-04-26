@@ -30,7 +30,7 @@ $grp SCR_AIGroup : "{80974146F735E863}Prefabs/Groups/BLUFOR/British Forces/2024/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -49,7 +49,7 @@ $grp SCR_AIGroup : "{80974146F735E863}Prefabs/Groups/BLUFOR/British Forces/2024/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -68,7 +68,7 @@ $grp SCR_AIGroup : "{80974146F735E863}Prefabs/Groups/BLUFOR/British Forces/2024/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

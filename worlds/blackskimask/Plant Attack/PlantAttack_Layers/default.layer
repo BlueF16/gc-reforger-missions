@@ -41,33 +41,75 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
  coords 6109.12 236.625 6229.905
  m_iFreezeTime 300
  m_safeStartTime 300
- m_fPrepDuration 0
+ m_fPrepDuration 999
+ m_fPrepMultiplier 999
+ m_fGameMultiplier 999
 }
-PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {
- components {
-  TILW_CoverMapComponent "{6473480FCAB7760B}" {
-   Enabled 1
+$grp PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {
+ {
+  components {
+   TILW_CoverMapComponent "{6473480FCAB7760B}" {
+    Enabled 1
+   }
+   TILW_MapShapeComponent "{6508F54F9B461198}" {
+    Enabled 1
+   }
   }
-  TILW_MapShapeComponent "{6508F54F9B461198}" {
-   Enabled 1
+  coords 6527.223 247.18 6264.982
+  Points {
+   ShapePoint "{68E0A8FF698374A3}" {
+    Position 450.477 33.887 -386.441
+   }
+   ShapePoint "{68E0A8FF6DBAB046}" {
+    Position -319.104 0 -320.073
+   }
+   ShapePoint "{68E0A8FF63FC2433}" {
+    Position -357.132 0 502.226
+   }
+   ShapePoint "{68E0A8FF6044B9C7}" {
+    Position 212.469 0 721.16
+   }
+   ShapePoint "{68E0A8FF67ACD809}" {
+    Position 612.495 0 480.685
+   }
   }
  }
- coords 6527.223 247.18 6264.982
- Points {
-  ShapePoint "{68E0A8FF698374A3}" {
-   Position 450.477 33.887 -386.441
+ AOLIMITOPFOR {
+  components {
+   TILW_AOLimitComponent "{6217617AC21DEB7B}" {
+    m_factionKeys {
+     "GC_SEPARATIST"
+    }
+    m_defaultColor 0.502 0 0 1
+   }
+   TILW_MapShapeComponent "{6508F54F9B461198}" {
+    Enabled 1
+    m_drawArea 0
+    m_color 0.502 0 0 1
+    m_drawLine 1
+    m_lineColor 0.561 0.071 0.071 1
+   }
   }
-  ShapePoint "{68E0A8FF6DBAB046}" {
-   Position -319.104 0 -320.073
-  }
-  ShapePoint "{68E0A8FF63FC2433}" {
-   Position -351.076 0 471.268
-  }
-  ShapePoint "{68E0A8FF6044B9C7}" {
-   Position 212.469 0 721.16
-  }
-  ShapePoint "{68E0A8FF67ACD809}" {
-   Position 612.495 0 480.685
+  coords 6429.962 204.265 6549.247
+  Points {
+   ShapePoint "{68FADE147169424F}" {
+    Position -126.203 0 -245.172
+   }
+   ShapePoint "{68FADE147670ECAF}" {
+    Position -263.644 0 221.646
+   }
+   ShapePoint "{68FADE1474FA5362}" {
+    Position 311.58 0 437.591
+   }
+   ShapePoint "{68FADE146F0B8791}" {
+    Position 715.142 0 193.913
+   }
+   ShapePoint "{68FADE14666811AA}" {
+    Position 685.328 0 -175.126
+   }
+   ShapePoint "{68FADE159ABF70C4}" {
+    Position -119.86 0 -361.994
+   }
   }
  }
 }

@@ -551,43 +551,4 @@ $grp PK_EntityDeleter {
    "{A35E15EBC6033C07}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
   }
  }
- {
-  coords 3736.81 14.621 1381.677
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
- }
- {
-  coords 3659.353 15.809 1382.423
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
- }
- {
-  coords 3570.782 15.831 1367.666
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
- }
- {
-  coords 3482.115 25.861 1351.065
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
- }
- {
-  coords 3377.722 20.879 1351.101
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
- }
- {
-  coords 3294.075 14.992 1343.468
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
-  m_prefabFilterList {
-   "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et"
-  }
-  m_excludePrefabsInList 1
- }
- {
-  coords 3249.809 14.547 1260.326
-  angles 0.251 -16.263 0.859
-  m_fRadius 42
- }
 }

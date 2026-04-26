@@ -1,7 +1,7 @@
 SCR_AIGroup gr_nva_hq : "{14BF2CFBAD86DA03}Prefabs/Groups/OPFOR/GC_NVA/P/Group_GC_NVA_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -140,7 +140,7 @@ $grp SCR_AIGroup : "{462E231DFE748567}Prefabs/Groups/OPFOR/GC_NVA/P/Group_NVA_Mo
  gr_nva_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -155,7 +155,7 @@ $grp SCR_AIGroup : "{462E231DFE748567}Prefabs/Groups/OPFOR/GC_NVA/P/Group_NVA_Mo
  gr_nva_3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -171,7 +171,7 @@ $grp SCR_AIGroup : "{462E231DFE748567}Prefabs/Groups/OPFOR/GC_NVA/P/Group_NVA_Mo
 SCR_AIGroup gr_nva_1 : "{5EBBA8C4F782D895}Prefabs/Groups/OPFOR/GC_NVA/P/Group_NVA_MotRifleSquad1_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1

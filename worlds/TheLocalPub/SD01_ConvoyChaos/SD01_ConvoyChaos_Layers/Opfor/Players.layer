@@ -1,8 +1,8 @@
-$grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Afghanka85)/P/Group_USSR_Afghanka_MotRifleSquad_P.et" {
+$grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/MotorRifle_MSV85A/Group_USSR_MSV85A_MotRifleSquad.et" {
  PLT1SQD1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -22,7 +22,7 @@ $grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  PLT1SQD2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -43,7 +43,7 @@ $grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  PLT1SQD3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -64,7 +64,7 @@ $grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  PLT1SQD4 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -85,7 +85,7 @@ $grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  PLT1SQD5 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -107,7 +107,7 @@ $grp SCR_AIGroup : "{28E0A3056104911C}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  PLT1SQD6 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -131,7 +131,7 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  COYHQ {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -140,9 +140,9 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   coords 445.324 329.269 5625.582
   angles 0 172.627 0
   m_aUnitPrefabSlots {
-   "{756A54A830E2B54A}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_CoyCO_P.et"
-   "{D853A7F5C151436C}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_CoySergeant_P.et"
-   "{C814CF3ADAC69C9B}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Medic_P.et"
+   "{756A54A830E2B54A}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_CoyCO_P.et"
+   "{D853A7F5C151436C}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_CoySergeant_P.et"
+   "{60F78BEFD940423D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Medic_P.et"
   }
   m_aStaticVehicles {
    "Ural4320_command1"
@@ -150,11 +150,12 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "SP01_UAZ469_USSR1"
   }
   m_sCustomNameSet "Company HQ"
+  m_bSetPlayable 1
  }
  PLT1HQ {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -167,14 +168,15 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{9595E5B959993309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderPL_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
    "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
-   "{C814CF3ADAC69C9B}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Medic_P.et"
+   "{60F78BEFD940423D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Medic_P.et"
   }
   m_sCustomNameSet "1st Platoon HQ"
+  m_bSetPlayable 1
  }
  T72Crew {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -193,11 +195,12 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "T72A_Desert1"
   }
   m_sCustomNameSet "T-72 Crew"
+  m_bSetPlayable 1
  }
  PLT1HQ2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -211,14 +214,15 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{9595E5B959993309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderPL_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
    "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
-   "{C814CF3ADAC69C9B}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Medic_P.et"
+   "{60F78BEFD940423D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Medic_P.et"
   }
   m_sCustomNameSet "2nd Platoon HQ"
+  m_bSetPlayable 1
  }
  PLT1HQ3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -229,21 +233,22 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   coords 460.58 329.598 5623.613
   angles 0 -173.585 0
   m_aUnitPrefabSlots {
-   "{00DD625BB16574BE}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_PlatoonLeader_P.et"
-   "{318E775193ED4578}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_DeputyPL_P.et"
-   "{2C4AD617FBDE35C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_SVD_P.et"
-   "{C814CF3ADAC69C9B}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Medic_P.et"
+   "{ECB5E6520057FF89}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_PlatoonLeader_P.et"
+   "{4318B010D29F4E99}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_DeputyPL_P.et"
+   "{2C4AD617FBDE35C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_SVD_P.et"
+   "{60F78BEFD940423D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Medic_P.et"
   }
   m_aStaticVehicles {
    "UAZ469_PKM1"
    "UAZ452_transport1"
   }
   m_sCustomNameSet "3rd Platoon HQ (Supply platoon)"
+  m_bSetPlayable 1
  }
  ZUCrew {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -254,19 +259,20 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   coords 467.473 329.065 5621.49
   angles 0 -172.664 0
   m_aUnitPrefabSlots {
-   "{8062853E9D285018}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_SquadLeader_P.et"
-   "{C0C7D650BD4C3CCA}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Rifleman_P.et"
-   "{C0C7D650BD4C3CCA}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Rifleman_P.et"
+   "{84BFC57ACE3F2322}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_SquadLeader_P.et"
+   "{D0B3CA0BB493B929}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Rifleman_P.et"
+   "{D0B3CA0BB493B929}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Rifleman_P.et"
   }
   m_aStaticVehicles {
    "Ural4320_ZU1"
   }
   m_sCustomNameSet "ZU-23 Ural crew"
+  m_bSetPlayable 1
  }
  LogiCrew {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -277,11 +283,11 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   coords 486.69 329.21 5620.956
   angles 0 173.746 0
   m_aUnitPrefabSlots {
-   "{8062853E9D285018}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_SquadLeader_P.et"
-   "{488F0C576CFFDD7C}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_AR_P.et"
-   "{C0C7D650BD4C3CCA}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Rifleman_P.et"
-   "{C0C7D650BD4C3CCA}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Rifleman_P.et"
-   "{C0C7D650BD4C3CCA}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_Afghanka_1985/P/Character_USSR_Afghanka_Rifleman_P.et"
+   "{84BFC57ACE3F2322}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_SquadLeader_P.et"
+   "{D19FFA691FCF0810}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_AR_P.et"
+   "{D0B3CA0BB493B929}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Rifleman_P.et"
+   "{D0B3CA0BB493B929}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Rifleman_P.et"
+   "{D0B3CA0BB493B929}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV85A/Character_USSR_MSV85A_Rifleman_P.et"
   }
   m_aStaticVehicles {
    "Ural4320_tanker1"
@@ -291,5 +297,6 @@ $grp SCR_AIGroup : "{90A51527AEC36680}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "Ural4320_ammo2"
   }
   m_sCustomNameSet "Logistics team* (MISSION CRITICAL GROUP)"
+  m_bSetPlayable 1
  }
 }

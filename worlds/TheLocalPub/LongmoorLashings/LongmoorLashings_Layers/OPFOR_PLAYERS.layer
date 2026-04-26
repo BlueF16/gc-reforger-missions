@@ -10,7 +10,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Rifle1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -25,7 +25,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Rifle2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -40,7 +40,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Rifle3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -55,7 +55,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Maneuver1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -75,7 +75,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Maneuver2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -95,7 +95,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Maneuver3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -115,7 +115,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  ShooterTeam {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -134,7 +134,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  Rifle4 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -149,7 +149,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  BRDMCrew {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

@@ -1,7 +1,7 @@
 SCR_AIGroup SeparatistPHQ : "{2D1AC8714A6D8BC9}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/Group_SEP_1990_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "File"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -27,7 +27,7 @@ SCR_AIGroup SeparatistPHQ : "{2D1AC8714A6D8BC9}Prefabs/Groups/OPFOR/GC_SEPARATIS
 SCR_AIGroup USSR310 : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRifleCoyHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "File"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -43,8 +43,8 @@ SCR_AIGroup USSR310 : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motor
   "{5888F75B9942CE7D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_RTO_P.et"
   "{D1BA3D1164545A8D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_Medic_P.et"
   "{A491F9108F01E180}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_Rifleman_P.et"
-  "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
-  "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+  "{EBAAF538F0029853}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV80/Character_USSR_MSV80_CrewGunner.et"
+  "{0C8152D8D8F591FF}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV80/Character_USSR_MSV80_CrewDriver.et"
  }
  m_sCustomNameSet "Company HQ"
  m_bSetPlayable 1
@@ -53,7 +53,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  SeparatistSquad1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -78,7 +78,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  SeparatistSquad2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -103,7 +103,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  SeparatistSquad3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -130,7 +130,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR311SQUAD {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -145,7 +145,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR312 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -161,7 +161,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR313 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -177,7 +177,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR314SQUAD {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -193,7 +193,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR315 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -209,7 +209,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR316 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -227,7 +227,7 @@ $grp SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR311HQ {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -243,7 +243,7 @@ $grp SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
  USSR314HQ {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

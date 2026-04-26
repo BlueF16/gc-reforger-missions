@@ -15,6 +15,7 @@ SCR_AIGroup : "{04FC2603763DCF52}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rif
   "{E5C3468BDF19AC4F}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_MG_P.et"
   "{7ED89FF8122EBF62}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_AMG_P.et"
  }
+ m_bSetPlayable 1
 }
 Vehicle BTR70_Base1 : "{1C5FE7B7FF49BB8D}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Base.et" {
  coords 2981.557 66.937 1566.702
@@ -37,4 +38,5 @@ SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rif
  coords 2962.579 67.263 1551.011
  angles 0 40.313 0
  m_sCustomNameSet "1st Squad"
+ m_bSetPlayable 1
 }

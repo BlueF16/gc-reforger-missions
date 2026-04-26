@@ -66,7 +66,7 @@ $grp SCR_AIGroup : "{81AAE529C4388FDA}Prefabs/Groups/BLUFOR/CDF/Mech_Modern/P/Gr
  cdf_aaa_crew {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -118,7 +118,7 @@ SCR_AIGroup cdf_sqd1 : "{8C7AC28E449564C9}Prefabs/Groups/BLUFOR/CDF/Mech_Modern/
 SCR_AIGroup cdf_sqd2 : "{AD524B24B0BF4080}Prefabs/Groups/BLUFOR/CDF/Mech_Modern/P/Group_CDF_Modern_MechSquad_2_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1

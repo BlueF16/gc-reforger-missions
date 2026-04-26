@@ -180,10 +180,10 @@ TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramewor
    m_name "AdminMessages"
    m_instructions {
     TILW_SendMessageInstruction "{68B0E4BCD79BA3CC}" {
-     m_executionDelay 1
-     m_messageTitle "Admin only message"
+     m_executionDelay 6
+     m_messageTitle "ADMIN MESSAGE"
      m_messageBody "The cache is now destroyed."\
-     "BLUFOR/US forces should now begin withdrawing north across the northern bridge to the extraction area which is a 2000km radius from US spawn."
+     "BLUFOR/US forces should now begin withdrawing north across the northern bridge to the extraction area which is a 2000km radius from US spawn. Nearest point to the zone is North side of the rail bridge."
      m_adminOnly 1
     }
    }

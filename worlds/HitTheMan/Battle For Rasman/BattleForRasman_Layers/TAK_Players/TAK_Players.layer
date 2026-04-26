@@ -2,7 +2,7 @@ $grp SCR_AIGroup : "{7CBC157AA0058745}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army
  TAK_Squad_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -27,7 +27,7 @@ $grp SCR_AIGroup : "{7CBC157AA0058745}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army
  TAK_Squad_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -52,7 +52,7 @@ $grp SCR_AIGroup : "{7CBC157AA0058745}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army
  TAK_Squad_3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -78,7 +78,7 @@ $grp SCR_AIGroup : "{7CBC157AA0058745}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army
 SCR_AIGroup TAK_PLTHQ_1 : "{CA68C1FA21DF9212}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/P/Group_GC_TKA_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1

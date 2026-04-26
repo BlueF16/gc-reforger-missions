@@ -14816,7 +14816,7 @@ $grp Tree : "{A35E15EBC6033C07}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_
   scale 0.694
  }
 }
-$grp StaticModelEntity : "{AC40EB94554992A1}worlds/Blue/LeadTheWay/Data/Trenches/ErodedEmbankment_01_dirt_straight_GREEN.et" {
+$grp StaticModelEntity : "{AC40EB94554992A1}worlds/Blue/Bangalorious/Data/Trenches/ErodedEmbankment_01_dirt_straight_GREEN.et" {
  {
   coords 3535.474 28.708 1055.777
   angles -9.264 36.776 5.617
@@ -14827,7 +14827,7 @@ $grp StaticModelEntity : "{AC40EB94554992A1}worlds/Blue/LeadTheWay/Data/Trenches
     Materials {
      MaterialAssignClass "{68CA56C91D60EF26}" {
       SourceMaterial "ErodedEmbankment_01_dirt_grass_FA4E5282095CB542"
-      AssignedMaterial "{926EFBDAEDBD8485}worlds/Blue/LeadTheWay/Data/ErodedEmbankment_01_EMPTY_grass.emat"
+      AssignedMaterial "{926EFBDAEDBD8485}worlds/Blue/Bangalorious/Data/ErodedEmbankment_01_EMPTY_grass.emat"
      }
      MaterialAssignClass "{68CA56C91D60EF42}" {
       SourceMaterial "ErodedEmbankment_01_dirt_roots_DFA24A47A03975F5"
@@ -14835,7 +14835,7 @@ $grp StaticModelEntity : "{AC40EB94554992A1}worlds/Blue/LeadTheWay/Data/Trenches
      }
      MaterialAssignClass "{68CA56C91D60EF47}" {
       SourceMaterial "ErodedEmbankment_01_dirt_terrain_003244BB00581E05"
-      AssignedMaterial "{CA66C374BB73B7E2}worlds/Blue/LeadTheWay/Data/PlainGrass.emat"
+      AssignedMaterial "{CA66C374BB73B7E2}worlds/Blue/Bangalorious/Data/PlainGrass.emat"
      }
     }
    }
@@ -14849,7 +14849,7 @@ $grp StaticModelEntity : "{AC40EB94554992A1}worlds/Blue/LeadTheWay/Data/Trenches
     Materials {
      MaterialAssignClass "{68CA56C91D60EF26}" {
       SourceMaterial "ErodedEmbankment_01_dirt_grass_FA4E5282095CB542"
-      AssignedMaterial "{926EFBDAEDBD8485}worlds/Blue/LeadTheWay/Data/ErodedEmbankment_01_EMPTY_grass.emat"
+      AssignedMaterial "{926EFBDAEDBD8485}worlds/Blue/Bangalorious/Data/ErodedEmbankment_01_EMPTY_grass.emat"
      }
      MaterialAssignClass "{68CA56C91D60EF42}" {
       SourceMaterial "ErodedEmbankment_01_dirt_roots_DFA24A47A03975F5"
@@ -14857,7 +14857,7 @@ $grp StaticModelEntity : "{AC40EB94554992A1}worlds/Blue/LeadTheWay/Data/Trenches
      }
      MaterialAssignClass "{68CA56C91D60EF47}" {
       SourceMaterial "ErodedEmbankment_01_dirt_terrain_003244BB00581E05"
-      AssignedMaterial "{CA66C374BB73B7E2}worlds/Blue/LeadTheWay/Data/PlainGrass.emat"
+      AssignedMaterial "{CA66C374BB73B7E2}worlds/Blue/Bangalorious/Data/PlainGrass.emat"
      }
     }
    }

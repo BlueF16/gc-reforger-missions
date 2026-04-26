@@ -2,7 +2,7 @@ $grp SCR_AIGroup : "{6E5FAA403D1014FF}Prefabs/Groups/BLUFOR/British Forces/1983/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -17,7 +17,7 @@ $grp SCR_AIGroup : "{6E5FAA403D1014FF}Prefabs/Groups/BLUFOR/British Forces/1983/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -32,7 +32,7 @@ $grp SCR_AIGroup : "{6E5FAA403D1014FF}Prefabs/Groups/BLUFOR/British Forces/1983/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

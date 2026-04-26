@@ -1,7 +1,7 @@
 SCR_AIGroup uk_hq : "{305C4B4F028B7994}Prefabs/Groups/BLUFOR/British Forces/1989/P/Light Infantry/Group_UK_1989_REG_RiflePHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -20,7 +20,7 @@ $grp SCR_AIGroup : "{5F6B6EF4C6B9ACE7}Prefabs/Groups/BLUFOR/British Forces/1989/
  uk_sq1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -35,7 +35,7 @@ $grp SCR_AIGroup : "{5F6B6EF4C6B9ACE7}Prefabs/Groups/BLUFOR/British Forces/1989/
  uk_sq2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

@@ -1,0 +1,151 @@
+PolylineShapeEntity MapCover : "{25C6E66E6C14258D}Prefabs/Logic/Map/Cover_Map.et" {
+ components {
+  TILW_CoverMapComponent "{64734633ABA43B46}" {
+   Enabled 0
+  }
+  TILW_MapShapeComponent "{6508F5522A2E1971}" {
+   Enabled 1
+  }
+ }
+ coords 4102.645 380.904 802.591
+ Points {
+  ShapePoint "{68F418EA7B44169A}" {
+   Position -800 29 -700
+  }
+  ShapePoint "{68F418EA7CC9A928}" {
+   Position -800 32 2350
+  }
+  ShapePoint "{68F418EA72926760}" {
+   Position 2050 202 2350
+  }
+  ShapePoint "{68F418EA73186501}" {
+   Position 2050 67 -700
+  }
+ }
+}
+$grp PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {
+ TKA_AO {
+  components {
+   TILW_AOLimitComponent "{6217617AC21DEB7B}" {
+    m_factionKeys {
+     "GC_TKA"
+    }
+   }
+   TILW_MapShapeComponent "{6508F54F9B461198}" {
+    Enabled 1
+    m_drawArea 0
+    m_drawLine 1
+    m_lineColor 0 0.5 0.125 1
+   }
+  }
+  coords 4581.349 350.692 503.706
+  Points {
+   ShapePoint "{690A222A1F05139F}" {
+    Position -189.353 15.061 -272.78
+   }
+   ShapePoint "{69137A8DA875A56F}" {
+    Position -273.236 12.985 -238.11
+   }
+   ShapePoint "{69137A906D9A1099}" {
+    Position -353.018 12.326 -69.535
+   }
+   ShapePoint "{69137A8E07D12C29}" {
+    Position -368.907 0.304 26.28
+   }
+   ShapePoint "{69137A8E055AE749}" {
+    Position -386.939 17.063 204.435
+   }
+   ShapePoint "{690A222A1334141C}" {
+    Position -356.575 10.89 373.839
+   }
+   ShapePoint "{69137A8E1753C4B1}" {
+    Position -258.374 29.426 419.222
+   }
+   ShapePoint "{69137A8E153CBE82}" {
+    Position -60.336 45.268 463.509
+   }
+   ShapePoint "{69137A8E2E8487F9}" {
+    Position 152.412 20.139 434.192
+   }
+   ShapePoint "{69137A8E2D3AA401}" {
+    Position 221.096 -1.809 338.887
+   }
+   ShapePoint "{69137A8E27DA94C4}" {
+    Position 274.21 7.486 193.217
+   }
+   ShapePoint "{69137A8E25E02D6E}" {
+    Position 353.071 11.552 63.414
+   }
+   ShapePoint "{69137A8D52C2B28A}" {
+    Position 392.244 20.196 -80.378
+   }
+   ShapePoint "{690A222A14F8B3FE}" {
+    Position 378.45 17.387 -140.499
+   }
+   ShapePoint "{69137A8E7162E805}" {
+    Position 130.493 43.872 -227.952
+   }
+  }
+ }
+ All_AO {
+  components {
+   TILW_AOLimitComponent "{6217617AC21DEB7B}" {
+    m_visibility NONE
+   }
+  }
+  coords 5965 415 260
+ }
+}
+$grp PolylineShapeEntity : "{A0468F86F76FCEE7}Prefabs/Logic/Map/TILW_MapShape.et" {
+ EastCompShape {
+  components {
+   TILW_MapShapeComponent "{6508F5526836BC09}" {
+    m_drawArea 0
+    m_drawLine 1
+    m_lineWidth 2
+   }
+  }
+  coords 4617.683 343.973 665.608
+  Points {
+   ShapePoint "{68F418E2303E87D9}" {
+    Position -7.914 1.148 -4.027
+   }
+   ShapePoint "{68F418E2316CD269}" {
+    Position 5.777 -0.042 -16.907
+   }
+   ShapePoint "{68F418E3CBB2F307}" {
+    Position 56.233 -0.192 35.613
+   }
+   ShapePoint "{68F418E3C6F77915}" {
+    Position 28.482 1.048 63.042
+   }
+   ShapePoint "{68F418E3DA950744}" {
+    Position -0.446 2.837 36.754
+   }
+  }
+ }
+ HillFortShape {
+  components {
+   TILW_MapShapeComponent "{6508F5526836BC09}" {
+    m_drawArea 0
+    m_drawLine 1
+    m_lineWidth 2
+   }
+  }
+  coords 4484.979 370.648 691.264
+  Points {
+   ShapePoint "{68F418E5D791D8E4}" {
+    Position -17 1 -25
+   }
+   ShapePoint "{68F418E5D7554579}" {
+    Position -25 1 5
+   }
+   ShapePoint "{68F418E5FA33C70F}" {
+    Position 56 1 28
+   }
+   ShapePoint "{68F418E5F8C2CF87}" {
+    Position 65 1 5.05
+   }
+  }
+ }
+}

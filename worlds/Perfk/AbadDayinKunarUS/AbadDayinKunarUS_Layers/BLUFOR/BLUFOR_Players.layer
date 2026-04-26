@@ -3,7 +3,7 @@ $grp SCR_AIGroup : "{0B9DC54980B31D0F}Prefabs/Groups/BLUFOR/US/Army/1998/Infantr
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -79,7 +79,7 @@ $grp SCR_AIGroup : "{0B9DC54980B31D0F}Prefabs/Groups/BLUFOR/US/Army/1998/Infantr
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     Enabled 0
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

@@ -34,7 +34,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  Sustainment_Blufor2 {
   coords 2336.492 103.134 1550.53
   m_sTitle "IV. Sustainment"
-  m_sTextData "Joint Task Force Trident is comprised of 3 Ranger Squads Delta has attached a FAC to the Ranger PLT HQ, and 2 Delta Force Support Sections."\
+  m_sTextData "Joint Task Force Trident is comprised of 3 Ranger Squads, and 3 Delta Force Support Sections."\
   ""\
   ""
   m_aVisibleForFactions {
@@ -53,8 +53,6 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Radio Freq:"\
   "PLT NET= 48.00"\
-  "AIR NET= 50.00"\
-  ""\
   ""
   m_aVisibleForFactions {
    "RHS_USAF"

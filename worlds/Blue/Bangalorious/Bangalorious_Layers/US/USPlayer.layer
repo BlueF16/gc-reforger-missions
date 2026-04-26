@@ -1,7 +1,7 @@
 SCR_AIGroup : "{2E20F404E398F622}Prefabs/Groups/BLUFOR/US/Marines/1990/Marine Rifles/P/Group_US_Marines_1990_MortarCrew_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{651367042C5F047E}" {
    m_iCompanyCallsign 1
@@ -164,7 +164,7 @@ $grp SCR_AIGroup : "{4D7315B25A803917}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68D0CC3F63B3DF75}" {
     m_iCompanyCallsign 1
@@ -178,12 +178,16 @@ $grp SCR_AIGroup : "{4D7315B25A803917}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    "{81D3F65CC7054E96}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_PSG_P.et"
    "{A1AFC251AE26C34E}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_RTO_P.et"
    "{F841D41888F73D00}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_Medic_P.et"
+   "{9C9AB518A1C0E902}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_MG_P.et"
+   "{87FFAAF2254AB251}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_AMG_P.et"
+   "{9C9AB518A1C0E902}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_MG_P.et"
+   "{87FFAAF2254AB251}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_AMG_P.et"
   }
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68D0CC3F0387DDD0}" {
     m_iCompanyCallsign 1
@@ -197,12 +201,16 @@ $grp SCR_AIGroup : "{4D7315B25A803917}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    "{81D3F65CC7054E96}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_PSG_P.et"
    "{A1AFC251AE26C34E}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_RTO_P.et"
    "{F841D41888F73D00}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_Medic_P.et"
+   "{9C9AB518A1C0E902}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_MG_P.et"
+   "{87FFAAF2254AB251}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_AMG_P.et"
+   "{9C9AB518A1C0E902}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_MG_P.et"
+   "{87FFAAF2254AB251}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_AMG_P.et"
   }
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68D0CC3F2FF116CA}" {
     m_iCompanyCallsign 1

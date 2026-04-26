@@ -63,12 +63,12 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   coords 3734.577 99.185 7853.961
   m_sTitle "Mission"
   m_sTextData "<h2>MISSION STATEMENT</h2>"\
-  "We are to conduct a HASTY RAID on the derailed train in order to destroy equipment caches and deny their future use by enemy relief forces. "\
+  "We are to conduct a HASTY RAID on the derailed train in order to destroy equipment caches and deny their future use by relief forces, before withdrawing from the AO."\
   ""\
   "<h2>MISSION DESCRIPTION</h2> "\
   "Friendly INDFOR partisan forces have successfully ambushed a retreating Russian train within the AO, causing it to derail."\
   "We have been rapidly deployed in pursuit to strike the crash site before a Russian quick reaction force (QRF) can arrive and extract surviving personnel or recover equipment."\
-  "Once the objective is complete, we will WITHDRAW northbound from the AO past the railway bridge."
+  "Once the objective is complete, we will WITHDRAW north-bound from the AO <b>beyond</b> the railway bridge."
   m_aVisibleForFactions {
    "US"
   }

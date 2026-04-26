@@ -11,7 +11,11 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "3. Each push will extend the Bangalore by adding a new section in front of the previous one. Continue deploying sections until the obstacle is fully bridged."\
   ""\
   "4. Once the full length of the Bangalore has been deployed, you can detonate it using either a timed fuse or a clacker on the first section you placed."\
-  "Limitation: Only 6 Bangalores maximum ."
+  "Limitation: Only 6 Bangalores maximum . (Each Bangalore is 1.5 m in Length)"\
+  ""\
+  "To breach this trench you will need to utilize 6 bangalore . Further recommend doing 6 side by side. "\
+  ""\
+  "IF BANGALORE IS BUGGED WHEN YOU REACH THE WIRE CALL GM"
   m_aVisibleForFactions {
    "US"
   }

@@ -70,6 +70,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{A491F9108F01E180}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_Rifleman_P.et"
   }
   m_sCustomNameSet "2nd Squad"
+  m_bSetPlayable 1
  }
  {
   components {
@@ -93,6 +94,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
    "{A491F9108F01E180}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_Rifleman_P.et"
   }
   m_sCustomNameSet "3rd Squad"
+  m_bSetPlayable 1
  }
 }
 SCR_AIGroup : "{82927FFD013CC95B}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRifleSquadSVD_P.et" {
@@ -117,6 +119,7 @@ SCR_AIGroup : "{82927FFD013CC95B}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rif
   "{A491F9108F01E180}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_Rifleman_P.et"
  }
  m_sCustomNameSet "1st Squad"
+ m_bSetPlayable 1
 }
 SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRiflePHQ_P.et" {
  components {
@@ -130,6 +133,7 @@ SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rif
  coords 6982.015 82.891 8472.451
  angles 0 -90 0
  m_sCustomNameSet "Platoon HQ"
+ m_bSetPlayable 1
 }
 SCR_AIGroup : "{C42280A6985BFE69}Prefabs/Groups/BLUFOR/US/Army/1981/Infantry (Woodland)/P/Group_US_Army_1980_RiflePHQ_P.et" {
  components {

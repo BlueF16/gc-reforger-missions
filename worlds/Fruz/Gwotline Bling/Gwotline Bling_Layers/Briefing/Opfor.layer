@@ -11,9 +11,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  Sustainment_Blufor3 {
   coords 3082.721 -23.755 2882.942
   m_sTitle "IV. Sustainment"
-  m_sTextData "Backpacks, sandbags, and e-tools are found in a crate near the entrance."\
-  ""\
-  ""
+  m_sTextData "the shirts on our back "
   m_aVisibleForFactions {
    "GC_MUJ"
   }
@@ -51,7 +49,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  Mission_Summary {
   coords 2908.286 10 3007.086
   m_sTitle "VI. Mission Summary"
-  m_sTextData "A Joint Task Force of Rangers and Delta assault an insurgent-held cave system within 60 minutes."\
+  m_sTextData "A Joint Task Force of Rangers and Delta conduct a night assault on an insurgent-held cave system within 60 minutes."\
   ""\
   ""
   m_bEmptyFactionVisibility 1

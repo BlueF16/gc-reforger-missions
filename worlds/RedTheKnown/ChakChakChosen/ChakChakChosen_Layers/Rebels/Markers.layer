@@ -1,0 +1,83 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ StartWest {
+  coords 3579.393 389.482 1354.612
+  m_MarkerColor 0.561 0.071 0.071 1
+  m_sQuadName "flag"
+  m_fWorldSize 55
+  m_sDescription "SP West"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+ StartNorth {
+  coords 4330.824 444.13 1995.294
+  m_MarkerColor 0.561 0.071 0.071 1
+  m_sQuadName "flag"
+  m_fWorldSize 55
+  m_sDescription "SP North"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+ StartEast {
+  coords 5976.093 318.843 1158.698
+  m_MarkerColor 0.561 0.071 0.071 1
+  m_sQuadName "flag"
+  m_fWorldSize 55
+  m_sDescription "SP East"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+ MainCompoundObj {
+  coords 4640.779 354.81 693.455
+  angles 0 0 0
+  m_MarkerColor 0 0.502 0.125 1
+  m_sQuadName "objective-marker"
+  m_fWorldSize 55
+  m_sDescription "MainComp"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+ FortObj {
+  coords 4496.166 356.351 690.68
+  angles 0 0 0
+  m_MarkerColor 0 0.502 0.125 1
+  m_sQuadName "objective-marker"
+  m_fWorldSize 55
+  m_sDescription "Fortifications"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+ StartMain {
+  coords 4340.05 608.919 2824.365
+  m_sImageSet "{8D15AE151C8F3A5C}UI/Textures/GPSMarkers/opfor_ImageSet.imageset"
+  m_MarkerColor 0.561 0.071 0.071 1
+  m_sQuadName "inf"
+  m_fWorldSize 55
+  m_sDescription "Initial Position"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+ WestCompoundObj {
+  coords 4269.302 349.969 546.727
+  angles 0 0 0
+  m_MarkerColor 0 0.502 0.125 1
+  m_sQuadName "objective-marker"
+  m_fWorldSize 55
+  m_sDescription "WestComp"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "GC_INSURGENT"
+  }
+ }
+}

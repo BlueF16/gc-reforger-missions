@@ -1,0 +1,84 @@
+GenericEntity : "{AE81CF200754DB64}PrefabsEditable/Auto/Props/Military/AmmoBoxes/EquipmentBoxStack/E_EquipmentBoxStack_USSR_01_V1.et" {
+ components {
+  SCR_SoundDataComponent "{5C53391603B5CF41}" {
+   Enabled 1
+  }
+  SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+   Enabled 1
+   MultiSlots {
+    MultiSlotConfiguration "{68F3644152C65D08}" {
+     SlotTemplate InventoryStorageSlot item1 {
+      Prefab "{A6737DA00653A39C}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Ball.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{68F3644CE2851E65}" {
+     SlotTemplate InventoryStorageSlot item2 {
+      Prefab "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et"
+     }
+     NumSlots 50
+    }
+    MultiSlotConfiguration "{68F3644CA6928954}" {
+     SlotTemplate InventoryStorageSlot item3 {
+      Prefab "{BC74DAC891D48540}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Ball.et"
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{68F615A7A1F3DFD4}" {
+     SlotTemplate InventoryStorageSlot item4 {
+      Prefab "{843D9B182BCD2765}Prefabs/Weapons/Magazines/NSV/Box_127x108_NSV_50rnd_4AP_1APIT.et"
+     }
+     NumSlots 14
+    }
+    MultiSlotConfiguration "{68F615A5AB51E5D2}" {
+     SlotTemplate InventoryStorageSlot item5 {
+      Prefab "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpack_IIFS_FieldPack.et"
+     }
+     NumSlots 6
+    }
+    MultiSlotConfiguration "{68F615A5A9BDDE47}" {
+     SlotTemplate InventoryStorageSlot item6 {
+      Prefab "{619470DA72D93DF8}worlds/FSM/Prefabs/Items/Core/Wirecutters/FSM_wirecutters.et"
+     }
+     NumSlots 3
+    }
+    MultiSlotConfiguration "{68FD6C86E7F6926F}" {
+     SlotTemplate InventoryStorageSlot item7 {
+      Prefab "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{68FD72A0A317A377}" {
+     SlotTemplate InventoryStorageSlot item8 {
+     }
+    }
+    MultiSlotConfiguration "{68FD72A0A02E83E5}" {
+     SlotTemplate InventoryStorageSlot item9 {
+      Prefab "{184DFCEFE574E775}Prefabs/Items/Equipment/Tripods/6T7/Part_NSV_Gun.et"
+     }
+     NumSlots 2
+    }
+    MultiSlotConfiguration "{68FD72A0A04D542A}" {
+     SlotTemplate InventoryStorageSlot item10 {
+      Prefab "{184DFCEFE574E776}Prefabs/Items/Equipment/Tripods/6T7/Part_NSV_Tripod.et"
+     }
+     NumSlots 2
+    }
+    MultiSlotConfiguration "{68FD72A0A051B1C4}" {
+     SlotTemplate InventoryStorageSlot item11 {
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{68FE2AE41B861CE0}" {
+    }
+    MultiSlotConfiguration "{690A22299BF9577F}" {
+    }
+   }
+  }
+  ActionsManagerComponent "{5476B36C403D4CC0}" {
+   Enabled 1
+  }
+ }
+ coords 4346.788 609.193 2820.175
+ angles 0 -2.391 0
+}

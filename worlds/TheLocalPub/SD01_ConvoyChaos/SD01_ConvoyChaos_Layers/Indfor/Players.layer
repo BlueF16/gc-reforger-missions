@@ -1,7 +1,7 @@
 SCR_AIGroup PHQ : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "File"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -20,7 +20,7 @@ SCR_AIGroup PHQ : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_PH
 SCR_AIGroup MG : "{297333D99B816CC9}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_MG_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "File"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -34,7 +34,7 @@ SCR_AIGroup MG : "{297333D99B816CC9}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_MG_
 SCR_AIGroup assault1 : "{5904B752E06F3423}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_Assault_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "file"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -61,7 +61,7 @@ $grp SCR_AIGroup : "{AFA6F99CA262DEDB}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_M
  Mixed1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -86,7 +86,7 @@ $grp SCR_AIGroup : "{AFA6F99CA262DEDB}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_M
  BMPCrew {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

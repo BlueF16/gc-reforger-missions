@@ -22,7 +22,7 @@ $grp SCR_AIGroup : "{0C17A1C879905D5A}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian
     m_iSquadCallsign 1
    }
    SCR_AIGroupMovementComponent "{6126A0E02097C7FF}" {
-    DefaultFormation "line"
+    Enabled 0
    }
   }
   coords 6162.349 112.624 5090.756
@@ -36,7 +36,7 @@ $grp SCR_AIGroup : "{0C17A1C879905D5A}Prefabs/Groups/BLUFOR/GC_CAF/1987 Canadian
     m_iSquadCallsign 2
    }
    SCR_AIGroupMovementComponent "{6126A0E02097C7FF}" {
-    DefaultFormation "line"
+    Enabled 0
    }
   }
   coords 6162.829 112.695 5081.463

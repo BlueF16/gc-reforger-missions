@@ -1,7 +1,7 @@
 SCR_AIGroup : "{2D1AC8714A6D8BC9}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/Group_SEP_1990_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "File"
+   Enabled 0
   }
   PK_EntityProtectorComponent "{68B4C8C7106F51C9}" {
   }
@@ -24,7 +24,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PK_EntityProtectorComponent "{68B4C8C712D00448}" {
    }
@@ -41,7 +41,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PK_EntityProtectorComponent "{68B4C8C7165E1637}" {
    }
@@ -58,7 +58,7 @@ $grp SCR_AIGroup : "{62B3E3CFAABEB4CA}Prefabs/Groups/OPFOR/GC_SEPARATIST/1990/P/
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PK_EntityProtectorComponent "{68B4C8C70A9DB151}" {
    }

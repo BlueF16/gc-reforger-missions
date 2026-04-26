@@ -17,6 +17,11 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
   }
  }
  coords 1498.91 13.458 1902.886
+ m_iFreezeTime 600
+ m_safeStartTime 600
+ m_fPrepDuration 999
+ m_fPrepMultiplier 999
+ m_fGameMultiplier 999
 }
 $grp PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {
  {
@@ -64,7 +69,7 @@ $grp PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit
   coords 2137.25 -49.865 2770.501
   Points {
    ShapePoint "{68E2A6E5B83FE57E}" {
-    Position -47.708 -16.609 -571.391
+    Position 17.027 -16.609 -540.578
    }
    ShapePoint "{68E2A6E5B79B716A}" {
     Position -805.233 103.268 1020.102

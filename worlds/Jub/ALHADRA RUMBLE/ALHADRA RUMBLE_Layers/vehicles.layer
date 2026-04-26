@@ -101,17 +101,10 @@ $grp Tank : "{C334AD811A3BFFFC}Prefabs/Vehicles/Tracked/BMP1/BMP1P_Desert.et" {
   m_sAttachmentGroupName "ru_sso_hq"
  }
 }
-$grp Vehicle : "{E49B4C9AEA70BE3F}Prefabs/Vehicles/Wheeled/JLTV/OGPK/M2HB/JLTV_OGPK.et" {
- JLTV_OGPK1 {
-  coords 5897.098 60.929 5793.423
-  angles 0 -102.675 0
-  m_sAttachmentGroupName "sq1"
- }
- JLTV_OGPK2 {
-  coords 5923.304 60.46 5798.165
-  angles 0 -102.675 0
-  m_sAttachmentGroupName "Phq"
- }
+Vehicle JLTV_OGPK1 : "{E49B4C9AEA70BE3F}Prefabs/Vehicles/Wheeled/JLTV/OGPK/M2HB/JLTV_OGPK.et" {
+ coords 5897.098 60.929 5793.423
+ angles 0 -102.675 0
+ m_sAttachmentGroupName "sq1"
 }
 Vehicle K4386 : "{E836092AB606CE4A}Prefabs/Vehicles/Wheeled/K4386/K4386_Armed_Tan.et" {
  coords 2391.467 17.843 1908.636
@@ -122,4 +115,9 @@ Vehicle TIGR_KORD : "{EB1805C9B001DE8D}Prefabs/Vehicles/Wheeled/TIGR/KORD/GAZ_TI
  coords 2392.655 17.843 1900.932
  angles 0 141.233 0
  m_sAttachmentGroupName "ru_mr_sq3"
+}
+Vehicle JLTV_OGPK2 : "{FBA3F21384B6E649}Prefabs/Vehicles/Wheeled/JLTV/OGPK/MK19/JLTV_MK19_OGPK.et" {
+ coords 5923.304 60.46 5798.165
+ angles 0 -102.675 0
+ m_sAttachmentGroupName "Phq"
 }

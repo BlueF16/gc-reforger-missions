@@ -27,7 +27,7 @@ $grp GenericEntity : "{063F3ABA03A63721}Prefabs/Weapons/Magazines/BC_Magazine_30
 SCR_AIGroup SEP_GROUP_420 : "{4ED44E08226F3FB3}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SEPARATIST_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "LineLeft"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -137,7 +137,7 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
  SEP_GROUP_421 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "LineLeft"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -155,7 +155,7 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
  SEP_GROUP_422 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "LineLeft"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

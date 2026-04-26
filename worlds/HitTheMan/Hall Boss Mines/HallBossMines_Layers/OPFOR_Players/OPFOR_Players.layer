@@ -1,7 +1,7 @@
 SCR_AIGroup RifleSquad_1 : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rifles (BTR-Early)/P/Group_USSR_MSV80_MotRifleSquad_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -24,4 +24,5 @@ SCR_AIGroup RifleSquad_1 : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/
  }
  m_bSnapToTerrain 0
  m_sCustomNameSet "1st Squad"
+ m_bSetPlayable 1
 }

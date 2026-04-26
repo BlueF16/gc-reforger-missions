@@ -109,7 +109,7 @@ Vehicle M923A1 : "{C8656AECF5DF41D9}Prefabs/Vehicles/Wheeled/M923A1/M923A1_repai
   SCR_AIGroup us_rpr_1 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
    components {
     AIFormationComponent "{507E9DC12F541FE6}" {
-     DefaultFormation "line"
+     Enabled 0
     }
     PS_GroupCallsignAssigner "{63616C6C7369676E}" {
      Enabled 1
@@ -133,7 +133,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_3 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -159,7 +159,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_4 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -185,7 +185,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_5 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -209,7 +209,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_6 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -235,7 +235,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_10 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -261,7 +261,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_9 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -287,7 +287,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_8 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -313,7 +313,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_7 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -339,7 +339,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_2 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1
@@ -362,7 +362,7 @@ $grp Tank : "{E59B0861ABEF1EBC}Prefabs/Vehicles/Tracked/M1A1/M1A1_MERDC.et" {
    SCR_AIGroup us_tnk_1 : "{EACD97CF4A702FAE}Prefabs/Groups/BLUFOR/Group_US_Base.et" {
     components {
      AIFormationComponent "{507E9DC12F541FE6}" {
-      DefaultFormation "line"
+      Enabled 0
      }
      PS_GroupCallsignAssigner "{63616C6C7369676E}" {
       Enabled 1

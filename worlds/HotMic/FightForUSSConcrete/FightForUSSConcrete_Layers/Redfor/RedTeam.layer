@@ -1,7 +1,7 @@
 SCR_AIGroup PHQ : "{4ED44E08226F3FB3}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SEPARATIST_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation ""
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -18,7 +18,7 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
  Rifle1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -31,7 +31,7 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
  Rifle3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -47,7 +47,7 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
  Rifle2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -60,7 +60,7 @@ $grp SCR_AIGroup : "{95EAEE22FCB498F2}Prefabs/Groups/OPFOR/GC_SEPARATIST/P/GC_SE
  Rifle4 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

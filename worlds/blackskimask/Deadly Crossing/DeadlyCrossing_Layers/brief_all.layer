@@ -37,13 +37,16 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Separatists hold the objective for 5min"\
   ""\
   "60min time limit"\
+  ""\
+  ""\
+  "NO DRONE USAGE BEFORE END OF SETUP TIME"\
   ""
   m_bEmptyFactionVisibility 1
  }
  {
   coords 1317.291 14.372 3064.595
   m_sTitle "MISSION NOTES"
-  m_sTextData "Separatist infantry company attempts to cross a river held by UK light infantry platoon."\
+  m_sTextData "Separatist infantry company attempts to cross a river held by UK light infantry platoon. 1:1.7 ratio"\
   ""\
   "END CONDITIONS: 90% UK Casualties"\
   ""\
@@ -55,9 +58,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "60min time limit"\
   ""\
-  "UK is restricted to blue AO. Separatists can use entire AO."\
   ""\
-  "FOR GAMEPLAY PURPOSES ONLY CROSS RIVER AT POINTS THAT ARE WALKABLE. NO SWIMMING FOR INFANTRY/"
+  "NO DRONE USAGE BEFORE END OF SETUP TIME"\
+  ""
   m_bShowForAnyFaction 1
  }
 }

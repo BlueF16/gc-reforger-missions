@@ -6,5 +6,5 @@ PerceptionManager PerceptionManager2 : "{028DAEAD63E056BE}Prefabs/World/Game/Per
 }
 PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
  coords 3972.279 146.908 8049.595
- m_iFreezeTime 5000
+ m_iFreezeTime 15000
 }

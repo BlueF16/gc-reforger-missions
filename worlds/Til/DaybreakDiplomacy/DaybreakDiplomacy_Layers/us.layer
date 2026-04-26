@@ -1,7 +1,7 @@
 SCR_AIGroup us_team_3 : "{36964CCA089D327F}Prefabs/Groups/BLUFOR/US/Army/2009/Delta Force/P/Group_Delta_2010_Support_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -15,7 +15,7 @@ $grp SCR_AIGroup : "{715D5CD2DD77ACBB}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
  us_team_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -28,7 +28,7 @@ $grp SCR_AIGroup : "{715D5CD2DD77ACBB}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
  us_team_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -47,7 +47,7 @@ $grp SCR_AIGroup : "{A11462D28E26DED0}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
  us_team_4_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -69,7 +69,7 @@ $grp SCR_AIGroup : "{A11462D28E26DED0}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
  us_team_4_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -91,7 +91,7 @@ $grp SCR_AIGroup : "{A11462D28E26DED0}Prefabs/Groups/BLUFOR/US/Army/2009/Delta F
  us_team_4_3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -133,7 +133,7 @@ $grp SCR_AIGroup : "{EE8D60FCE6D3B856}Prefabs/Groups/BLUFOR/RHS_USAF/RHS_USAF_US
  us_pilots {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -153,7 +153,7 @@ $grp SCR_AIGroup : "{EE8D60FCE6D3B856}Prefabs/Groups/BLUFOR/RHS_USAF/RHS_USAF_US
  us_hq {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

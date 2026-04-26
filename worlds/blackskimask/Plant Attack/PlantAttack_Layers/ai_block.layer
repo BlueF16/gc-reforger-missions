@@ -9,10 +9,12 @@ $grp SCR_DefendWaypoint : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Def
   coords 6156.508 227.066 6278.563
  }
  SEC1_DEF {
-  coords 6215.782 224.797 6364.983
+  coords 6239.656 221.348 6389.922
+  CompletionRadius 10
  }
  SEC2_DEF {
-  coords 6240.442 230.071 6244.293
+  coords 6251.857 227.001 6244.293
+  CompletionRadius 10
  }
 }
 $grp SCR_AIGroup : "{FBEC05D5B81F372D}Prefabs/Groups/BLUFOR/British Forces/2024/Light Infantry/Group_UK_2024_RifleSection.et" {

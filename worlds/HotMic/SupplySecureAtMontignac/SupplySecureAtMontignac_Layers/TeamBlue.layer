@@ -13,7 +13,7 @@ $grp SCR_AIGroup : "{6E4EF673050EC9D3}Prefabs/Groups/BLUFOR/US/Army/2020/Infantr
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -25,7 +25,7 @@ $grp SCR_AIGroup : "{6E4EF673050EC9D3}Prefabs/Groups/BLUFOR/US/Army/2020/Infantr
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -37,7 +37,7 @@ $grp SCR_AIGroup : "{6E4EF673050EC9D3}Prefabs/Groups/BLUFOR/US/Army/2020/Infantr
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation ""
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

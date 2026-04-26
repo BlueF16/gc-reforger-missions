@@ -1,7 +1,7 @@
 SCR_AIGroup : "{C0D5DEC11F09B60D}Prefabs/Groups/BLUFOR/US/Army/2003/Infantry (Desert)/P/Group_US_Army_2003_D_RifleSqua_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation ""
+   Enabled 0
   }
  }
  coords 3643.562 142.186 8182.45

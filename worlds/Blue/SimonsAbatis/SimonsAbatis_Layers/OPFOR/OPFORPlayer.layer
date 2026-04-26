@@ -12,6 +12,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   m_aUnitPrefabSlots +{
   }
   m_sCustomNameSet "1st PLT 1st Squad"
+  m_bSetPlayable 1
  }
  {
   components {
@@ -25,6 +26,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   m_aUnitPrefabSlots +{
   }
   m_sCustomNameSet "1st PLT 2nd Squad"
+  m_bSetPlayable 1
  }
  {
   components {
@@ -39,6 +41,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   m_aUnitPrefabSlots +{
   }
   m_sCustomNameSet "1st PLT 3rd Squad"
+  m_bSetPlayable 1
  }
  {
   components {
@@ -54,6 +57,7 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   m_aUnitPrefabSlots +{
   }
   m_sCustomNameSet "2nd PLT 2nd Squad"
+  m_bSetPlayable 1
  }
  TANK {
   components {
@@ -66,11 +70,12 @@ $grp SCR_AIGroup : "{7544247CE7FBC839}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
   coords 5645.725 75.664 4665.781
   angles -0.007 0.053 8.005
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
-   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
-   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{55282B86B5B38366}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV80/Character_USSR_MSV80_CrewCdr.et"
+   "{EBAAF538F0029853}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV80/Character_USSR_MSV80_CrewGunner.et"
+   "{0C8152D8D8F591FF}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_MSV80/Character_USSR_MSV80_CrewDriver.et"
   }
   m_sCustomNameSet "T72A"
+  m_bSetPlayable 1
  }
 }
 PolylineShapeEntity OPFOR_AO : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" {
@@ -131,4 +136,5 @@ SCR_AIGroup : "{8D35DA8B89880FAF}Prefabs/Groups/OPFOR/Russia/1980s/Motorised Rif
   "{D1BA3D1164545A8D}Prefabs/Characters/Factions/OPFOR/USSR_Army/MotorRifle_1980/Character_USSR_MSV80_Medic_P.et"
  }
  m_sCustomNameSet "1st PLT HQ"
+ m_bSetPlayable 1
 }

@@ -2,7 +2,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -19,7 +19,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -36,7 +36,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -53,7 +53,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -70,7 +70,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -87,7 +87,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -104,7 +104,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  RUHQ {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -127,7 +127,7 @@ $grp SCR_AIGroup : "{D05ABE9D4FCD367E}Prefabs/Groups/OPFOR/Russia/2000s/Motorise
  RUSniper {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

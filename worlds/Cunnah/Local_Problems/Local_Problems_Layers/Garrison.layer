@@ -2,7 +2,7 @@ $grp SCR_AIGroup : "{26E9D09E8E3C0CC0}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
  Patrol_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -21,7 +21,7 @@ $grp SCR_AIGroup : "{26E9D09E8E3C0CC0}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
  Patrol_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1
@@ -40,7 +40,7 @@ $grp SCR_AIGroup : "{26E9D09E8E3C0CC0}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
  HVT {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "line"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{63616C6C7369676E}" {
     Enabled 1

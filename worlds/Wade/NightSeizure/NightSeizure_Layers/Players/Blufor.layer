@@ -2,7 +2,7 @@ $grp SCR_AIGroup : "{1F468430E5AB477E}Prefabs/Groups/BLUFOR/GreenBerets/Suppress
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68B49475034AE9C4}" {
     m_iSquadCallsign 1
@@ -18,7 +18,7 @@ $grp SCR_AIGroup : "{1F468430E5AB477E}Prefabs/Groups/BLUFOR/GreenBerets/Suppress
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68B49475050A0FED}" {
     m_iSquadCallsign 2
@@ -34,7 +34,7 @@ $grp SCR_AIGroup : "{1F468430E5AB477E}Prefabs/Groups/BLUFOR/GreenBerets/Suppress
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "file"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68B4947507BD96A1}" {
     m_iSquadCallsign 3
@@ -50,7 +50,7 @@ $grp SCR_AIGroup : "{1F468430E5AB477E}Prefabs/Groups/BLUFOR/GreenBerets/Suppress
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "File"
+    Enabled 0
    }
    PS_GroupCallsignAssigner "{68B494750A66A9AD}" {
     m_iSquadCallsign 4
@@ -67,7 +67,7 @@ $grp SCR_AIGroup : "{1F468430E5AB477E}Prefabs/Groups/BLUFOR/GreenBerets/Suppress
 SCR_AIGroup : "{AC473DE5F4B24E82}Prefabs/Groups/BLUFOR/GreenBerets/Suppressed/Group_US_GreenBeret_ReconTeam.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "File"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{68B494753290ECAA}" {
   }
@@ -77,6 +77,8 @@ SCR_AIGroup : "{AC473DE5F4B24E82}Prefabs/Groups/BLUFOR/GreenBerets/Suppressed/Gr
  m_aUnitPrefabSlots +{
   "{218217624DA44CCD}Prefabs/Characters/Factions/BLUFOR/US_Army/GreenBerets/Suppressed/Character_US_SF_Medic_S.et"
   "{C81429173BB025F2}Prefabs/Characters/Factions/BLUFOR/US_Army/GreenBerets/Suppressed/Character_US_SF_RTO_S.et"
+  "{DADA3692BC2D3EE1}worlds/Wade/NightSeizure/Prefabs/Character_US_SF_Mortarman_S.et"
+  "{DADA3692BC2D3EE1}worlds/Wade/NightSeizure/Prefabs/Character_US_SF_Mortarman_S.et"
  }
  m_bSetPlayable 1
 }

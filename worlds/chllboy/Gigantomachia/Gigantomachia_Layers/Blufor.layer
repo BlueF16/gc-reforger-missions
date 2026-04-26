@@ -1,7 +1,7 @@
 SCR_AIGroup : "{50405007E4967EEE}Prefabs/Groups/BLUFOR/US/Army/2020/Infantry/P/Group_USA_2020_RiflePHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "ECH left"
+   Enabled 0
   }
  }
  coords 1769.843 209.136 811.396
@@ -27,7 +27,7 @@ SCR_AIGroup : "{6E4EF673050EC9D3}Prefabs/Groups/BLUFOR/US/Army/2020/Infantry/P/G
 SCR_AIGroup : "{F6AD06DE653481AC}Prefabs/Groups/BLUFOR/US/Army/2020/Infantry/P/Group_USA_2020_WeaponsSquad_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "ECH left"
+   Enabled 0
   }
  }
  coords 1770.684 207.777 806.317

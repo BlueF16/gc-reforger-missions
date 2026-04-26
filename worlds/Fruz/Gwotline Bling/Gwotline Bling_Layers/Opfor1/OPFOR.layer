@@ -1,7 +1,7 @@
 SCR_AIGroup : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_PHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -9,11 +9,18 @@ SCR_AIGroup : "{097966114F7D2E0C}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_PHQ_P.
  }
  coords 1293.365 266.65 215.056
  angles 0 137.668 0
+ m_aUnitPrefabSlots {
+  "{E786F2A16BDD3655}Prefabs/Characters/Factions/INDFOR/GC_MUJ/P/Character_MUJ_SL_P.et"
+  "{1E5B3326EDB601A5}Prefabs/Characters/Factions/INDFOR/GC_MUJ/P/Character_MUJ_Med_P.et"
+  "{121299FDBBA7AF87}Prefabs/Characters/Factions/INDFOR/GC_MUJ/P/Character_MUJ_Rad_P.et"
+  "{2B3F3BC3F24CC73B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/P/Character_MUJ_PKM_P.et"
+  "{09981380AFD4EB5B}Prefabs/Characters/Factions/INDFOR/GC_MUJ/P/Variants/Character_MUJ_SMG_4_P.et"
+ }
 }
 SCR_AIGroup : "{297333D99B816CC9}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_MG_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1
@@ -30,7 +37,7 @@ SCR_AIGroup : "{297333D99B816CC9}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_MG_P.e
 SCR_AIGroup : "{5904B752E06F3423}Prefabs/Groups/INDFOR/GC_MUJ/P/Group_MUJ_Assault_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "line"
+   Enabled 0
   }
   PS_GroupCallsignAssigner "{63616C6C7369676E}" {
    Enabled 1

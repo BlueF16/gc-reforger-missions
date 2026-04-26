@@ -45,17 +45,15 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Light rifle platoon, currently situated defending an important river crossing."\
   ""\
-  "CG team attached at PLT level."\
+  "CG team attached at PLT level. Drone operator attached from COY."\
   ""\
-  ""\
-  "Our Battalion has outfitted each platoon with a drone jamming backpack each, this can be carried by whoever the PL designates. "\
   ""\
   ""\
   ""\
   "No attachments."\
   ""\
   "4x M72A3"\
-  "1x Jammer backpack"\
+  "3x SB300 drone"\
   "Ammo box at spawn"\
   ""\
   "2iCs have GPMG ammo."\
@@ -64,7 +62,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Understrength infantry company, separatists wearing mixed military and civilian clothing. Armed with AK74s, PKMs, RPGs. 1x BMP1 has been spotted in support."\
   ""\
-  "Enemy have access to FPV drones. "\
+  "Enemy have access to FPV drones, armed and unarmed."\
   ""\
   "No access to night vision devices."\
   ""\
